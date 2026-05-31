@@ -1,15 +1,15 @@
 <!--
   Ultra-premium GitHub Profile README for @ankitraj6767
-  Positioning: Software Development Engineer | Backend + Full-Stack | Distributed Systems
-  Note: Percentage visuals below represent resume + project experience focus, not exact GitHub language statistics.
+  Positioning: Software Development Engineer | Backend + Full-Stack | Distributed Systems | Product Engineering
+  Percentage visuals represent portfolio/resume/project-stack weighting, not exact GitHub language byte statistics.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:2563EB,100:7C3AED&height=260&section=header&text=Ankit%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20Backend%20%2B%20Full-Stack%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Product%20Engineering&descAlignY=58&descSize=16" alt="Ankit Raj GitHub Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:2563EB,100:7C3AED&height=280&section=header&text=Ankit%20Raj&fontSize=66&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20Backend%20%2B%20Full-Stack%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Product%20Engineering&descAlignY=58&descSize=16" alt="Ankit Raj GitHub Profile Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+scalable+backend+services;Designing+event-driven+workflows;Shipping+clean+full-stack+products;Solving+hard+DSA+and+system+design+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=27&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+scalable+backend+services;Designing+event-driven+Kafka+workflows;Shipping+premium+Flutter+%2B+Next.js+products;Solving+hard+DSA+and+system+design+problems;Turning+ideas+into+production-grade+systems" alt="Typing SVG" />
 </a>
 
 <br />
@@ -33,15 +33,16 @@
   <img src="https://komarev.com/ghpvc/?username=ankitraj6767&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Blue%20Yonder-Software%20Development%20Engineer-2563EB?style=for-the-badge" alt="Blue Yonder SDE" />
   <img src="https://img.shields.io/badge/NIT%20Silchar-B.Tech%20CSE-7C3AED?style=for-the-badge" alt="NIT Silchar" />
+  <img src="https://img.shields.io/badge/DSA-1700%2B%20Problems-F97316?style=for-the-badge" alt="1700+ DSA Problems" />
 </p>
 
-<h3>Backend-first full-stack engineer building APIs, Kafka workflows, analytics dashboards, and product-grade systems.</h3>
+<h3>Backend-first full-stack engineer building APIs, Kafka workflows, analytics dashboards, Flutter apps, and product-grade systems.</h3>
 
 </div>
 
 ---
 
-## Executive Snapshot
+## Executive Impact Snapshot
 
 <table>
   <tr>
@@ -58,48 +59,13 @@
       <br /><sub>Kafka Metadata Automation</sub>
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/DSA%20Solved-1700%2B-F97316?style=for-the-badge" alt="1700+ DSA problems solved" />
-      <br /><sub>Problem Solving</sub>
+      <img src="https://img.shields.io/badge/Prod%20Bugs-20%2B%20Resolved-EAB308?style=for-the-badge" alt="20+ production bugs resolved" />
+      <br /><sub>Reliability Engineering</sub>
     </td>
   </tr>
 </table>
 
-I am a **Software Development Engineer at Blue Yonder** working on the **Multi-Dimensional Analytics Platform (MDAP)**. My engineering work sits at the intersection of scalable APIs, event-driven backend workflows, React + TypeScript dashboards, testing, production reliability, and data-heavy enterprise systems.
-
----
-
-## Premium Engineering Identity
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend & Distributed Systems</h3>
-      <p>
-        Designing REST APIs, Spring Boot services, Kafka-driven automation, validation flows, metadata orchestration, and reliable backend modules for analytics-heavy systems.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/JUnit-A855F7?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Full-Stack Product Engineering</h3>
-      <p>
-        Building polished dashboards, admin systems, auth flows, CMS experiences, data visualization interfaces, and production-style web platforms.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+I am a **Software Development Engineer at Blue Yonder** working on the **Multi-Dimensional Analytics Platform (MDAP)**. My work spans scalable REST APIs, Spring Boot services, Kafka workflows, React + TypeScript analytics dashboards, testing, production debugging, and data-heavy enterprise systems.
 
 ---
 
@@ -107,100 +73,151 @@ I am a **Software Development Engineer at Blue Yonder** working on the **Multi-D
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,react,ts,nextjs,nodejs,express,nestjs,python,cpp,postgres,mongodb,mysql,docker,git,github,postman,tailwind,vite,redux,vercel,linux,idea,vscode" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,react,ts,nextjs,nodejs,express,nestjs,dart,flutter,python,cpp,postgres,supabase,mongodb,mysql,docker,git,github,githubactions,postman,tailwind,vite,redux,vercel,linux,idea,vscode,firebase" alt="Tech Stack Icons" />
 
 </div>
 
 <br />
 
-### Experience Focus Percentage Chart
+## Portfolio Tech Mix — Percentage View
 
-> These percentages represent practical exposure across resume work, portfolio projects, and current engineering direction — not exact GitHub language statistics.
+> Visual weighting across current professional work, portfolio repositories, and flagship product builds. This is a strategic project-stack distribution, not GitHub byte-level language analytics.
 
 ```mermaid
-pie showData title Experience Focus Distribution
-    "Backend APIs & Services" : 32
-    "Frontend Dashboards & UX" : 23
-    "Databases & Data Modeling" : 14
-    "Event-Driven Systems / Kafka" : 12
-    "Testing, Debugging & Reliability" : 10
-    "DevOps / Tooling / CI-CD" : 9
+pie showData title Portfolio Tech Stack Distribution
+    "TypeScript / React / Next.js" : 28
+    "Java / Spring Boot" : 23
+    "Dart / Flutter" : 18
+    "JavaScript / Node.js" : 12
+    "SQL / Supabase / PostgreSQL" : 10
+    "Kafka / Docker / CI-CD" : 6
+    "Python / C++ / DSA" : 3
 ```
-
-### Tech Depth Bars
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Java + Spring Boot</strong><br />
-      <img src="https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Java Spring Boot 90 percent" />
-    </td>
-    <td width="50%">
-      <strong>REST APIs + Microservices</strong><br />
-      <img src="https://geps.dev/progress/88?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="REST APIs Microservices 88 percent" />
-    </td>
+    <td width="50%"><strong>TypeScript / React / Next.js — 28%</strong><br /><img src="https://geps.dev/progress/28?dangerColor=2563eb&warningColor=2563eb&successColor=2563eb" alt="TypeScript React Next 28 percent" /></td>
+    <td width="50%"><strong>Java / Spring Boot — 23%</strong><br /><img src="https://geps.dev/progress/23?dangerColor=f97316&warningColor=f97316&successColor=f97316" alt="Java Spring Boot 23 percent" /></td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>React + TypeScript</strong><br />
-      <img src="https://geps.dev/progress/84?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="React TypeScript 84 percent" />
-    </td>
-    <td width="50%">
-      <strong>Kafka + Event Workflows</strong><br />
-      <img src="https://geps.dev/progress/76?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Kafka Event Workflows 76 percent" />
-    </td>
+    <td width="50%"><strong>Dart / Flutter — 18%</strong><br /><img src="https://geps.dev/progress/18?dangerColor=38bdf8&warningColor=38bdf8&successColor=38bdf8" alt="Dart Flutter 18 percent" /></td>
+    <td width="50%"><strong>JavaScript / Node.js — 12%</strong><br /><img src="https://geps.dev/progress/12?dangerColor=facc15&warningColor=facc15&successColor=facc15" alt="JavaScript Node 12 percent" /></td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>Database Engineering</strong><br />
-      <img src="https://geps.dev/progress/78?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Database Engineering 78 percent" />
-    </td>
-    <td width="50%">
-      <strong>Testing + Production Debugging</strong><br />
-      <img src="https://geps.dev/progress/82?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Testing Production Debugging 82 percent" />
-    </td>
+    <td width="50%"><strong>SQL / Supabase / PostgreSQL — 10%</strong><br /><img src="https://geps.dev/progress/10?dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="SQL Supabase PostgreSQL 10 percent" /></td>
+    <td width="50%"><strong>Kafka / Docker / CI-CD — 6%</strong><br /><img src="https://geps.dev/progress/6?dangerColor=a855f7&warningColor=a855f7&successColor=a855f7" alt="Kafka Docker CICD 6 percent" /></td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>System Design</strong><br />
-      <img src="https://geps.dev/progress/74?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="System Design 74 percent" />
+    <td width="50%"><strong>Python / C++ / DSA — 3%</strong><br /><img src="https://geps.dev/progress/3?dangerColor=64748b&warningColor=64748b&successColor=64748b" alt="Python C++ DSA 3 percent" /></td>
+    <td width="50%"><strong>Product Architecture Coverage — 100%</strong><br /><img src="https://geps.dev/progress/100?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Product architecture 100 percent" /></td>
+  </tr>
+</table>
+
+---
+
+## Flagship Product Command Center
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🥩 NonVeg Junction</h2>
+      <p><strong>Fresh non-veg delivery operating system</strong> for chicken, fish, mutton, local shops, delivery partners, payments, refunds, live tracking, and inventory locking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Flagship%20Product%20Architecture-7C3AED?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-FoodTech%20%2B%20Logistics-DC2626?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-Admin%20Dashboard-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Realtime-Live%20Tracking-22C55E?style=flat-square" />
+      </p>
+      <ul>
+        <li>Customer app: browse shops, products, cart, checkout, order tracking.</li>
+        <li>Shop module: inventory, pricing, availability, acceptance workflow.</li>
+        <li>Delivery module: assignment, route state, proof, live location.</li>
+        <li>Admin module: city, zone, shops, payouts, refunds, support, analytics.</li>
+      </ul>
     </td>
-    <td width="50%">
-      <strong>Docker + CI/CD Tooling</strong><br />
-      <img src="https://geps.dev/progress/70?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Docker CICD Tooling 70 percent" />
+    <td width="50%" valign="top">
+      <h2>📒 Ledger Pro</h2>
+      <p><strong>Android-first private business ledger app</strong> for bookkeeping, customer finance, project expenses, offline-first records, Supabase-backed permissions, and secure mobile workflows.</p>
+      <p>
+        <a href="https://github.com/ankitraj6767/ledgerpro"><img src="https://img.shields.io/badge/Repo-ankitraj6767%2Fledgerpro-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Status-Private%20Internal%20App-0F172A?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter%203.44-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart%203.12-Language-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-Auth%20%2B%20Postgres-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drift-Offline%20DB-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Riverpod-State-38BDF8?style=flat-square" />
+      </p>
+      <ul>
+        <li>Offline-first ledger with Drift local database and Supabase sync direction.</li>
+        <li>Secure storage, PIN lock, biometrics, PDF sharing, UPI/phone links.</li>
+        <li>Customer logins via Edge Function and RLS-backed permission boundary.</li>
+        <li>Verification path: Flutter analyze, tests, Android debug build.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## Architecture Thinking
+## Product Architecture Visuals
+
+### NonVeg Junction — Fresh Delivery System Map
 
 ```mermaid
 flowchart LR
-    A[User / Dashboard] --> B[React + TypeScript UI]
-    B --> C[REST API Layer]
-    C --> D[Spring Boot Services]
-    D --> E[(SQL / NoSQL Databases)]
-    D --> F[Kafka Producers]
-    F --> G[Kafka Topics]
-    G --> H[Kafka Consumers]
-    H --> I[Metadata Automation]
-    I --> J[Analytics / Deployment Workflows]
+    A[Customer Mobile App] --> B[Shop Discovery]
+    B --> C[Cart + Order]
+    C --> D[Payment + Refund Layer]
+    C --> E[Inventory Locking]
+    E --> F[Shop Acceptance]
+    F --> G[Delivery Assignment]
+    G --> H[Live Tracking]
+    H --> I[Order Completion]
 
-    C --> K[Validation + Auth + Error Handling]
-    D --> L[JUnit + Debugging + Reliability]
+    J[Admin Dashboard] --> B
+    J --> E
+    J --> G
+    J --> D
+    K[Supabase / PostgreSQL] --> B
+    K --> C
+    K --> E
+    K --> H
+```
+
+### Ledger Pro — Secure Mobile Ledger Architecture
+
+```mermaid
+flowchart TD
+    A[Flutter Android App] --> B[Riverpod State]
+    B --> C[GoRouter Navigation]
+    B --> D[Drift Offline Database]
+    D --> E[Sync Queue]
+    E --> F[Supabase Auth + Postgres]
+    F --> G[RLS Policies]
+    F --> H[Storage]
+    F --> I[Edge Functions]
+    I --> J[Customer User Creation]
+    A --> K[PIN / Biometrics / Secure Storage]
+    A --> L[PDF / Share / UPI / Phone Links]
+    A --> M[Firebase Messaging Hooks]
 ```
 
 ---
 
-## Selected Product-Grade Projects
+## Top Repository Showcase
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ShopHub</h3>
-      <p>Full-stack e-commerce platform with catalog, advanced filtering, cart, checkout, order lifecycle, admin dashboard, JWT auth, RBAC, Razorpay payments, and optimized media workflows.</p>
+    <td width="33%" valign="top">
+      <h3>🛒 ShopHub</h3>
+      <p>Full-stack e-commerce platform with product catalog, search/filtering, cart, checkout, orders, admin dashboard, JWT auth, RBAC, Razorpay payments, and optimized media workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -208,9 +225,9 @@ flowchart LR
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>P.G. International School Platform</h3>
-      <p>Production-style school website and management system with public website, admin CMS, parent portal, teacher portal, attendance, results, notices, admissions, and role-based access.</p>
+    <td width="33%" valign="top">
+      <h3>🏫 P.G. International School</h3>
+      <p>Production-style school website and management platform with public pages, admin CMS, parent portal, teacher portal, admissions, attendance, notices, fee, results, and role-based access.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -218,11 +235,9 @@ flowchart LR
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>LifeOps</h3>
-      <p>Premium personal life-management platform covering tasks, habits, goals, journal, mood tracking, expenses, global search, and modular full-stack architecture.</p>
+    <td width="33%" valign="top">
+      <h3>🧠 LifeOps</h3>
+      <p>Personal operating system for tasks, habits, goals, journal, mood tracking, expenses, global search, modular architecture, and premium productivity workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -230,18 +245,73 @@ flowchart LR
         <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>CosmoScope</h3>
-      <p>NASA-powered space insight dashboard with APOD, Mars rover imagery, Earth satellite views, asteroid tracking, space weather, image search, and responsive premium UI.</p>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌌 CosmoScope</h3>
+      <p>NASA-powered insight dashboard with APOD, Mars rover imagery, Earth satellite views, asteroid tracking, space weather, image search, and responsive space-themed UI.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/NASA%20APIs-E03C31?style=flat-square&logo=nasa&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Visualization-2563EB?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Kafka / CI-CD</h3>
+      <p>Hands-on backend practice around event streaming, deployment automation, workflow reliability, Docker, and engineering tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Chatbot / School Systems</h3>
+      <p>AI/product engineering experiments and management-system builds that show dashboard thinking, authenticated workflows, and product-grade UI architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Product%20Engineering-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## Repository Portfolio Map
+
+```mermaid
+mindmap
+  root((Ankit Raj Portfolio))
+    Enterprise Engineering
+      Blue Yonder MDAP
+      Java Spring Boot
+      Kafka Automation
+      React TypeScript Dashboards
+    Flagship Products
+      NonVeg Junction
+        Flutter App
+        Next.js Admin
+        Supabase Backend
+        Live Tracking
+        Inventory Locking
+      Ledger Pro
+        Flutter Dart
+        Supabase RLS
+        Drift Offline DB
+        Edge Functions
+    Full Stack Repositories
+      ShopHub
+      PG International School
+      LifeOps
+      CosmoScope
+    Engineering Depth
+      Kafka
+      CI-CD Learning
+      System Design
+      Competitive Programming
+```
 
 ---
 
@@ -286,7 +356,7 @@ flowchart LR
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=ankitraj6767&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ankit%27s%20GitHub%20Performance" alt="Ankit Raj GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj6767&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj6767&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=GitHub%20Language%20Snapshot" alt="Top Languages" />
 
 <br /><br />
 
@@ -304,13 +374,13 @@ flowchart LR
 
 ---
 
-## What I Am Sharpening Now
+## Current Growth Direction
 
 <table>
   <tr>
     <td width="33%" align="center">
       <h3>System Design</h3>
-      <p>Scalability, consistency, caching, queues, observability, and fault-tolerant architecture.</p>
+      <p>Scalability, consistency, queues, caching, observability, and fault-tolerant architecture.</p>
     </td>
     <td width="33%" align="center">
       <h3>Backend Depth</h3>
@@ -318,7 +388,7 @@ flowchart LR
     </td>
     <td width="33%" align="center">
       <h3>Product Craft</h3>
-      <p>Premium UX, admin systems, data visualization, dashboard workflows, and real-world usability.</p>
+      <p>Premium UX, Flutter apps, admin systems, dashboards, data visualization, and real-world usability.</p>
     </td>
   </tr>
 </table>
@@ -331,6 +401,6 @@ flowchart LR
 
 <h3>Make the system reliable. Make the interface simple. Make the code maintainable.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:020617&height=140&section=footer" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:020617&height=150&section=footer" alt="Footer Wave" />
 
 </div>

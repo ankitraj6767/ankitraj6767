@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:2563EB,100:7C3AED&height=280&section=header&text=Ankit%20Raj&fontSize=66&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20Backend%20%2B%20Full-Stack%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Product%20Engineering&descAlignY=58&descSize=16" alt="Ankit Raj GitHub Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:2563EB,100:7C3AED&height=280&section=header&text=Ankit%20Raj&fontSize=66&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20Backend%20%2B%20Full-Stack%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Product%20Engineering&descAlignY=58&descSize=16" alt="Mr. Ankit Raj GitHub Profile Banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=27&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+scalable+backend+services;Designing+event-driven+Kafka+workflows;Shipping+premium+Flutter+%2B+Next.js+products;Solving+hard+DSA+and+system+design+problems;Turning+ideas+into+production-grade+systems" alt="Typing SVG" />

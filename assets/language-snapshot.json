@@ -1,77 +1,26 @@
 {
   "username": "ankitraj6767",
   "generated_at_utc": "2026-06-20 06:37:57",
-  "source": "GitHub REST languages endpoint",
+  "source": {
+    "languages": "GitHub REST languages endpoint",
+    "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files by scripts/generate_language_snapshot.py"
+  },
   "includes_private_token": false,
+  "note": "Dart/Flutter-heavy private repositories require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
-    {
-      "name": "ankitraj6767/Ankit-PortFolio",
-      "private": false,
-      "pushed_at": "2026-05-06T11:38:48Z",
-      "bytes": 132505
-    },
-    {
-      "name": "ankitraj6767/sms",
-      "private": false,
-      "pushed_at": "2026-04-26T08:35:00Z",
-      "bytes": 572073
-    },
-    {
-      "name": "ankitraj6767/partofspeech",
-      "private": false,
-      "pushed_at": "2026-04-25T00:33:01Z",
-      "bytes": 412964
-    },
-    {
-      "name": "ankitraj6767/weatherApplication",
-      "private": false,
-      "pushed_at": "2026-01-25T18:07:41Z",
-      "bytes": 167865
-    },
-    {
-      "name": "ankitraj6767/translator",
-      "private": false,
-      "pushed_at": "2026-01-24T18:20:42Z",
-      "bytes": 609961
-    },
-    {
-      "name": "ankitraj6767/restaurant",
-      "private": false,
-      "pushed_at": "2026-01-03T21:44:17Z",
-      "bytes": 841857
-    },
-    {
-      "name": "ankitraj6767/saiEnterprise",
-      "private": false,
-      "pushed_at": "2024-06-01T13:00:42Z",
-      "bytes": 246305
-    },
-    {
-      "name": "ankitraj6767/Sai-enterprise",
-      "private": false,
-      "pushed_at": "2023-07-16T16:28:20Z",
-      "bytes": 246459
-    },
-    {
-      "name": "ankitraj6767/Portfolio",
-      "private": false,
-      "pushed_at": "2023-07-10T14:07:58Z",
-      "bytes": 713088
-    },
-    {
-      "name": "ankitraj6767/covid19_tracker",
-      "private": false,
-      "pushed_at": "2022-09-15T07:45:26Z",
-      "bytes": 19829
-    },
-    {
-      "name": "ankitraj6767/snakegame",
-      "private": false,
-      "pushed_at": "2022-08-09T03:54:04Z",
-      "bytes": 7801
-    }
+    {"name": "ankitraj6767/Ankit-PortFolio", "private": false, "pushed_at": "2026-05-06T11:38:48Z", "bytes": 132505},
+    {"name": "ankitraj6767/sms", "private": false, "pushed_at": "2026-04-26T08:35:00Z", "bytes": 572073},
+    {"name": "ankitraj6767/partofspeech", "private": false, "pushed_at": "2026-04-25T00:33:01Z", "bytes": 412964},
+    {"name": "ankitraj6767/weatherApplication", "private": false, "pushed_at": "2026-01-25T18:07:41Z", "bytes": 167865},
+    {"name": "ankitraj6767/translator", "private": false, "pushed_at": "2026-01-24T18:20:42Z", "bytes": 609961},
+    {"name": "ankitraj6767/restaurant", "private": false, "pushed_at": "2026-01-03T21:44:17Z", "bytes": 841857},
+    {"name": "ankitraj6767/saiEnterprise", "private": false, "pushed_at": "2024-06-01T13:00:42Z", "bytes": 246305},
+    {"name": "ankitraj6767/Sai-enterprise", "private": false, "pushed_at": "2023-07-16T16:28:20Z", "bytes": 246459},
+    {"name": "ankitraj6767/Portfolio", "private": false, "pushed_at": "2023-07-10T14:07:58Z", "bytes": 713088},
+    {"name": "ankitraj6767/covid19_tracker", "private": false, "pushed_at": "2022-09-15T07:45:26Z", "bytes": 19829},
+    {"name": "ankitraj6767/snakegame", "private": false, "pushed_at": "2022-08-09T03:54:04Z", "bytes": 7801}
   ],
-  "total_bytes": 3970707,
+  "total_language_bytes": 3970707,
   "languages": {
     "TypeScript": 1949837,
     "JavaScript": 853649,
@@ -82,5 +31,13 @@
     "PLpgSQL": 42392,
     "Shell": 11447,
     "Procfile": 54
+  },
+  "stack_signal_engine": {
+    "Spring Boot": "enabled; scans pom.xml and Gradle files; private Java repos require PROFILE_STATS_TOKEN",
+    "Flutter / Dart": "enabled; scans GitHub language bytes and pubspec.yaml; private Flutter repos require PROFILE_STATS_TOKEN",
+    "React / Next.js": "enabled; scans package.json and repository languages",
+    "Supabase / PostgreSQL": "enabled; scans Supabase folders and PostgreSQL/PLpgSQL usage",
+    "Kafka": "enabled; scans dependency/config keywords",
+    "Razorpay": "enabled; scans dependency/config keywords"
   }
 }

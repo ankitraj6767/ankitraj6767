@@ -2,8 +2,11 @@ name: Update Language Snapshot
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - update-language-snapshot
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
   push:
     branches:
       - main

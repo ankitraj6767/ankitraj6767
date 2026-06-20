@@ -1,0 +1,48 @@
+name: Update Language Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/language-snapshot.svg"
+      - "assets/language-snapshot.json"
+
+permissions:
+  contents: write
+
+jobs:
+  update-language-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate language snapshot
+        env:
+          GITHUB_USERNAME: ankitraj6767
+          # Optional: add this repository secret to include private repos.
+          # Without it, the snapshot uses public repos only.
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python scripts/generate_language_snapshot.py
+
+      - name: Commit generated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/language-snapshot.svg assets/language-snapshot.json
+          if git diff --cached --quiet; then
+            echo "Language snapshot is already up to date."
+          else
+            git commit -m "Update language snapshot [skip ci]"
+            git push
+          fi

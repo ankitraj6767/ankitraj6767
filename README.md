@@ -37,26 +37,11 @@
 
 <table>
   <tr>
-    <td width="20%" align="center">
-      <strong>Current Role</strong><br />
-      <sub>Software Development Engineer<br />Blue Yonder</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>Education</strong><br />
-      <sub>B.Tech CSE<br />NIT Silchar</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>Core Backend</strong><br />
-      <sub>Java • Spring Boot<br />Kafka • PostgreSQL</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>Product Stack</strong><br />
-      <sub>React • Next.js<br />Flutter • Supabase</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>Problem Solving</strong><br />
-      <sub>LeetCode Knight<br />Codeforces Expert</sub>
-    </td>
+    <td width="20%" align="center"><strong>Current Role</strong><br /><sub>Software Development Engineer<br />Blue Yonder</sub></td>
+    <td width="20%" align="center"><strong>Education</strong><br /><sub>B.Tech CSE<br />NIT Silchar</sub></td>
+    <td width="20%" align="center"><strong>Core Backend</strong><br /><sub>Java • Spring Boot<br />Kafka • PostgreSQL</sub></td>
+    <td width="20%" align="center"><strong>Product Stack</strong><br /><sub>React • Next.js<br />Flutter • Supabase</sub></td>
+    <td width="20%" align="center"><strong>Problem Solving</strong><br /><sub>LeetCode Knight<br />Codeforces Expert</sub></td>
   </tr>
 </table>
 
@@ -82,18 +67,9 @@ flowchart LR
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend Systems</h3>
-      <p>Spring Boot services, REST APIs, Kafka consumers/producers, validation flows, testing, debugging, and performance-oriented engineering.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📊 Product Dashboards</h3>
-      <p>React, TypeScript, Next.js, Tailwind, admin consoles, analytics panels, forms, tables, filters, and clean user workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📱 Mobile + Realtime</h3>
-      <p>Flutter apps with Supabase, auth, Postgres, realtime sync, offline-aware flows, permissions, and production-style app architecture.</p>
-    </td>
+    <td width="33%" valign="top"><h3>⚙️ Backend Systems</h3><p>Spring Boot services, REST APIs, Kafka consumers/producers, validation flows, testing, debugging, and performance-oriented engineering.</p></td>
+    <td width="33%" valign="top"><h3>📊 Product Dashboards</h3><p>React, TypeScript, Next.js, Tailwind, admin consoles, analytics panels, forms, tables, filters, and clean user workflows.</p></td>
+    <td width="33%" valign="top"><h3>📱 Mobile + Realtime</h3><p>Flutter apps with Supabase, auth, Postgres, realtime sync, offline-aware flows, permissions, and production-style app architecture.</p></td>
   </tr>
 </table>
 
@@ -103,22 +79,10 @@ flowchart LR
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Kafka-100K%2B%20Messages%2FDay-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="100K+ Kafka messages per day" />
-      <br /><sub>High-throughput backend pipelines</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Testing-80%25%2B%20Coverage-22C55E?style=for-the-badge" alt="80%+ test coverage" />
-      <br /><sub>JUnit / Mockito / integration quality</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Projects-20%2B-7C3AED?style=for-the-badge" alt="20+ projects" />
-      <br /><sub>Full-stack and product builds</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/DSA-1700%2B%20Solved-F97316?style=for-the-badge" alt="1700+ DSA problems solved" />
-      <br /><sub>Algorithms + interview depth</sub>
-    </td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/Kafka-100K%2B%20Messages%2FDay-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="100K+ Kafka messages per day" /><br /><sub>High-throughput backend pipelines</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/Testing-80%25%2B%20Coverage-22C55E?style=for-the-badge" alt="80%+ test coverage" /><br /><sub>JUnit / Mockito / integration quality</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/Projects-20%2B-7C3AED?style=for-the-badge" alt="20+ projects" /><br /><sub>Full-stack and product builds</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/DSA-1700%2B%20Solved-F97316?style=for-the-badge" alt="1700+ DSA problems solved" /><br /><sub>Algorithms + interview depth</sub></td>
   </tr>
 </table>
 
@@ -169,7 +133,6 @@ flowchart TD
     A --> C[Operations Dashboards]
     A --> D[Mobile-first Products]
     A --> E[Public Full-stack Apps]
-
     B --> B1[NonVeg Junction]
     B --> B2[Apni Dhanno]
     C --> C1[Admin Consoles]
@@ -187,12 +150,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🥩 NonVeg Junction</h2>
       <p><strong>Fresh meat quick-commerce operating system</strong> for 10–20 minute fresh chicken, fish, mutton, seafood, egg, and ready-to-cook delivery through nearby verified local shops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Private-Flagship%20Build-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flutter-4%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-Payments-02042B?style=flat-square" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Private-Flagship%20Build-0F172A?style=flat-square" /> <img src="https://img.shields.io/badge/Flutter-4%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-Payments-02042B?style=flat-square" /></p>
       <ul>
         <li><strong>Product depth:</strong> customer app, shop partner app, delivery partner app, admin dashboard, order lifecycle, inventory locking, support, payouts, refunds, and live tracking.</li>
         <li><strong>Engineering depth:</strong> Supabase schema, RLS, Edge Functions, realtime sync, shared packages, dynamic config, launch checklist, and production-readiness gates.</li>
@@ -202,12 +160,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🏍️ Apni Dhanno</h2>
       <p><strong>Self-drive car and bike rental product</strong> for mobile booking, KYC, vehicle discovery, admin operations, fleet readiness, trip evidence, payments, refunds, and Ranchi-first launch workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Private-Launch--Gated-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-Admin-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/DigiLocker-KYC-2563EB?style=flat-square" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Private-Launch--Gated-0F172A?style=flat-square" /> <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-Admin-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/DigiLocker-KYC-2563EB?style=flat-square" /></p>
       <ul>
         <li><strong>Product depth:</strong> vehicle catalog, city/branch operations, booking flow, Prime subscriptions, fleet partner onboarding, user management, reports, support, and CMS settings.</li>
         <li><strong>Engineering depth:</strong> Supabase Auth, hardened RLS, private Storage, Razorpay booking/Prime functions, payment webhooks, refunds, trip start/end Edge Functions, and SQL security checks.</li>
@@ -219,12 +172,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>📒 Ledger Pro</h2>
       <p><strong>Secure mobile ledger system</strong> for customer books, project expenses, offline-first records, customer access, PDFs, UPI/phone actions, and privacy-first business workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Private-Internal%20Utility-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drift-Offline%20DB-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Riverpod-State-38BDF8?style=flat-square" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Private-Internal%20Utility-0F172A?style=flat-square" /> <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Drift-Offline%20DB-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/Riverpod-State-38BDF8?style=flat-square" /></p>
       <ul>
         <li><strong>Product depth:</strong> customer ledger, transactions, reminders, expense tracking, secure access, PDF/share flows, phone/UPI actions, and business-friendly mobile UX.</li>
         <li><strong>Engineering depth:</strong> local-first direction with Drift, Supabase sync boundary, RLS-backed access, secure storage, app routing, and practical verification path.</li>
@@ -234,12 +182,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🛒 ShopHub E-commerce</h2>
       <p><strong>Full-stack commerce platform</strong> with catalog, deals, flash sale style flows, cart, checkout, orders, admin analytics, authentication, Cloudinary, Razorpay, and notifications.</p>
-      <p>
-        <a href="https://github.com/ankitraj6767/ShopHub"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://shophub-five.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
+      <p><a href="https://github.com/ankitraj6767/ShopHub"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://shophub-five.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></p>
       <ul>
         <li><strong>Product depth:</strong> product listing, filtering, wishlist, cart, payments, order management, admin dashboard, revenue tracking, and customer-facing ecommerce flows.</li>
         <li><strong>Engineering depth:</strong> React, Redux Toolkit, Node.js, Express, MongoDB, JWT auth, Cloudinary media workflows, Razorpay payment integration, and email notifications.</li>
@@ -251,12 +194,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🏫 PG International School</h2>
       <p><strong>School website and CMS platform</strong> with bilingual content, admissions, public pages, admin workflows, REST APIs, Cloudinary media, and polished parent-facing UX.</p>
-      <p>
-        <a href="https://github.com/ankitraj6767/PG-International-School"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://pg-international-school-5wp5.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+      <p><a href="https://github.com/ankitraj6767/PG-International-School"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://pg-international-school-5wp5.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></p>
       <ul>
         <li><strong>Product depth:</strong> admission flow, content management, notices, media sections, bilingual pages, school profile, and non-technical admin controls.</li>
         <li><strong>Engineering depth:</strong> Next.js, TypeScript, Node.js/Express APIs, MongoDB, JWT, Tailwind, Framer Motion, Cloudinary, and protected admin workflows.</li>
@@ -266,12 +204,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🧠 LifeOps</h2>
       <p><strong>Personal productivity operating system</strong> for tasks, habits, goals, journal, mood analytics, expenses, auth, dashboard modules, and daily self-management workflows.</p>
-      <p>
-        <a href="https://github.com/ankitraj6767/LifeOps"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://life-ops-cyan.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      </p>
+      <p><a href="https://github.com/ankitraj6767/LifeOps"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://life-ops-cyan.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" /></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></p>
       <ul>
         <li><strong>Product depth:</strong> task management, habit streaks, goals, journaling, mood tracking, expense breakdowns, modular dashboard, and focused personal workflows.</li>
         <li><strong>Engineering depth:</strong> Next.js, TypeScript, Tailwind, React Query, Zustand, NestJS, MongoDB, JWT, modular frontend state, and backend API structure.</li>
@@ -283,12 +216,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🌌 CosmoScope</h2>
       <p><strong>NASA-powered space dashboard</strong> that turns open space data into a responsive visual exploration experience with APOD, imagery, asteroid insight, and data-display flows.</p>
-      <p>
-        <a href="https://github.com/ankitraj6767/CosmoScope"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://cosmoscopes-ankitraj.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=netlify&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/NASA%20APIs-E03C31?style=flat-square&logo=nasa&logoColor=white" />
-      </p>
+      <p><a href="https://github.com/ankitraj6767/CosmoScope"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://cosmoscopes-ankitraj.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=netlify&logoColor=white" /></a> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/NASA%20APIs-E03C31?style=flat-square&logo=nasa&logoColor=white" /></p>
       <ul>
         <li><strong>Product depth:</strong> educational exploration, space content cards, image-led discovery, API-backed data views, and responsive visual storytelling.</li>
         <li><strong>Engineering depth:</strong> React, Tailwind CSS, NASA APIs, data fetching, responsive states, and clean presentation of API-driven content.</li>
@@ -298,11 +226,7 @@ flowchart TD
     <td width="50%" valign="top">
       <h2>🧩 Systems Practice</h2>
       <p><strong>Engineering depth repositories</strong> covering interview DSA, Kafka practice, CI/CD learning, Spring Boot + React builds, school systems, restaurant/hotel workflows, and smaller utility apps.</p>
-      <p>
-        <a href="https://github.com/ankitraj6767/Interview_DS_Algo"><img src="https://img.shields.io/badge/DSA-Interview%20Repo-F97316?style=flat-square&logo=leetcode&logoColor=white" /></a>
-        <a href="https://github.com/ankitraj6767/Kafka"><img src="https://img.shields.io/badge/Kafka-Practice-231F20?style=flat-square&logo=apachekafka&logoColor=white" /></a>
-        <a href="https://github.com/ankitraj6767/CI-CD-learning"><img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></a>
-      </p>
+      <p><a href="https://github.com/ankitraj6767/Interview_DS_Algo"><img src="https://img.shields.io/badge/DSA-Interview%20Repo-F97316?style=flat-square&logo=leetcode&logoColor=white" /></a> <a href="https://github.com/ankitraj6767/Kafka"><img src="https://img.shields.io/badge/Kafka-Practice-231F20?style=flat-square&logo=apachekafka&logoColor=white" /></a> <a href="https://github.com/ankitraj6767/CI-CD-learning"><img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></a></p>
       <ul>
         <li><strong>Product depth:</strong> focused builds for learning, reusable patterns, admin flows, API experiments, and real-world CRUD/product practice.</li>
         <li><strong>Engineering depth:</strong> Java, Spring Boot, React, GitHub Actions, Docker, Kafka, algorithm practice, and debugging workflows.</li>
@@ -323,48 +247,13 @@ flowchart TD
     <th align="left">Core Modules</th>
     <th align="left">Engineering Signal</th>
   </tr>
-  <tr>
-    <td><strong>NonVeg Junction</strong></td>
-    <td>Fresh meat quick commerce</td>
-    <td>Customer, shop, delivery, admin, payments, inventory, live tracking</td>
-    <td>Flutter, Supabase, RLS, Edge Functions, realtime, launch gates</td>
-  </tr>
-  <tr>
-    <td><strong>Apni Dhanno</strong></td>
-    <td>Self-drive vehicle rental</td>
-    <td>Booking, KYC, fleet, admin, trip evidence, refunds, Prime</td>
-    <td>Flutter, Next.js, Supabase, private Storage, Razorpay, DigiLocker</td>
-  </tr>
-  <tr>
-    <td><strong>Ledger Pro</strong></td>
-    <td>Business ledger utility</td>
-    <td>Customer books, expenses, offline records, PDFs, secure access</td>
-    <td>Flutter, Drift, Riverpod, Supabase, secure storage direction</td>
-  </tr>
-  <tr>
-    <td><strong>ShopHub</strong></td>
-    <td>E-commerce</td>
-    <td>Catalog, cart, checkout, orders, admin, payments, notifications</td>
-    <td>React, Redux, Node.js, Express, MongoDB, Cloudinary, Razorpay</td>
-  </tr>
-  <tr>
-    <td><strong>PG International School</strong></td>
-    <td>School CMS</td>
-    <td>Public site, admissions, bilingual CMS, media, admin workflows</td>
-    <td>Next.js, TypeScript, REST APIs, MongoDB, Cloudinary, JWT</td>
-  </tr>
-  <tr>
-    <td><strong>LifeOps</strong></td>
-    <td>Personal productivity</td>
-    <td>Tasks, habits, goals, journal, mood, expenses, dashboard</td>
-    <td>Next.js, TypeScript, NestJS, MongoDB, React Query, Zustand</td>
-  </tr>
-  <tr>
-    <td><strong>CosmoScope</strong></td>
-    <td>Space data dashboard</td>
-    <td>NASA data, imagery, asteroid insights, responsive exploration UI</td>
-    <td>React, Tailwind, NASA APIs, data presentation</td>
-  </tr>
+  <tr><td><strong>NonVeg Junction</strong></td><td>Fresh meat quick commerce</td><td>Customer, shop, delivery, admin, payments, inventory, live tracking</td><td>Flutter, Supabase, RLS, Edge Functions, realtime, launch gates</td></tr>
+  <tr><td><strong>Apni Dhanno</strong></td><td>Self-drive vehicle rental</td><td>Booking, KYC, fleet, admin, trip evidence, refunds, Prime</td><td>Flutter, Next.js, Supabase, private Storage, Razorpay, DigiLocker</td></tr>
+  <tr><td><strong>Ledger Pro</strong></td><td>Business ledger utility</td><td>Customer books, expenses, offline records, PDFs, secure access</td><td>Flutter, Drift, Riverpod, Supabase, secure storage direction</td></tr>
+  <tr><td><strong>ShopHub</strong></td><td>E-commerce</td><td>Catalog, cart, checkout, orders, admin, payments, notifications</td><td>React, Redux, Node.js, Express, MongoDB, Cloudinary, Razorpay</td></tr>
+  <tr><td><strong>PG International School</strong></td><td>School CMS</td><td>Public site, admissions, bilingual CMS, media, admin workflows</td><td>Next.js, TypeScript, REST APIs, MongoDB, Cloudinary, JWT</td></tr>
+  <tr><td><strong>LifeOps</strong></td><td>Personal productivity</td><td>Tasks, habits, goals, journal, mood, expenses, dashboard</td><td>Next.js, TypeScript, NestJS, MongoDB, React Query, Zustand</td></tr>
+  <tr><td><strong>CosmoScope</strong></td><td>Space data dashboard</td><td>NASA data, imagery, asteroid insights, responsive exploration UI</td><td>React, Tailwind, NASA APIs, data presentation</td></tr>
 </table>
 
 ---
@@ -402,22 +291,10 @@ flowchart TD
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-      <br /><strong>1852</strong><br /><sub>Max Rating</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-      <br /><strong>1832</strong><br /><sub>Max Rating</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      <br /><strong>1937</strong><br /><sub>Rating</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Problems-1700%2B-22C55E?style=for-the-badge" />
-      <br /><strong>DSA</strong><br /><sub>Practice Depth</sub>
-    </td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br /><strong>1852</strong><br /><sub>Max Rating</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /><br /><strong>1832</strong><br /><sub>Max Rating</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br /><strong>1937</strong><br /><sub>Rating</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Problems-1700%2B-22C55E?style=for-the-badge" /><br /><strong>DSA</strong><br /><sub>Practice Depth</sub></td>
   </tr>
 </table>
 
@@ -433,7 +310,14 @@ flowchart TD
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=ankitraj6767&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ankit%20Raj%20%7C%20GitHub%20Performance" alt="Ankit Raj GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj6767&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Language%20Snapshot" alt="Top languages" />
+
+<br /><br />
+
+<img src="./assets/language-snapshot.svg" alt="Live language snapshot generated from GitHub repository language bytes" />
+
+<br />
+
+<sub>Language card is generated from GitHub repository language bytes by <code>.github/workflows/update-language-snapshot.yml</code>. It updates on push to this profile repo, manual workflow run, and every 6 hours. Add <code>PROFILE_STATS_TOKEN</code> as a repository secret to include private repositories.</sub>
 
 <br /><br />
 
@@ -455,18 +339,9 @@ flowchart TD
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>System Design</h3>
-      <p>Scalability, queues, caching, consistency, observability, and fault-tolerant services.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Backend Depth</h3>
-      <p>Spring Boot internals, Kafka patterns, API performance, testing, and reliability.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Product Craft</h3>
-      <p>Premium UX, Flutter apps, admin systems, dashboards, data visualization, and usability.</p>
-    </td>
+    <td width="33%" align="center"><h3>System Design</h3><p>Scalability, queues, caching, consistency, observability, and fault-tolerant services.</p></td>
+    <td width="33%" align="center"><h3>Backend Depth</h3><p>Spring Boot internals, Kafka patterns, API performance, testing, and reliability.</p></td>
+    <td width="33%" align="center"><h3>Product Craft</h3><p>Premium UX, Flutter apps, admin systems, dashboards, data visualization, and usability.</p></td>
   </tr>
 </table>
 

@@ -1,18 +1,18 @@
 <svg width="980" height="560" viewBox="0 0 980 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Technology Intelligence Snapshot</title>
-  <desc id="desc">Language bytes and framework signal detection for ankitraj6767.</desc>
+  <desc id="desc">Language bytes and framework signals generated from GitHub repositories for ankitraj6767.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="980" y2="560" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFF7ED"/>
       <stop offset="0.46" stop-color="#FEF3C7"/>
       <stop offset="1" stop-color="#ECFDF5"/>
     </linearGradient>
-    <linearGradient id="header" x1="46" y1="34" x2="934" y2="110" gradientUnits="userSpaceOnUse">
+    <linearGradient id="header" x1="46" y1="36" x2="934" y2="108" gradientUnits="userSpaceOnUse">
       <stop stop-color="#431407"/>
-      <stop offset="0.5" stop-color="#92400E"/>
+      <stop offset="0.48" stop-color="#92400E"/>
       <stop offset="1" stop-color="#065F46"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#78350F" flood-opacity="0.18"/>
     </filter>
     <clipPath id="barClip"><rect x="46" y="145" width="888" height="20" rx="10"/></clipPath>
@@ -20,50 +20,28 @@
 
   <rect width="980" height="560" rx="30" fill="url(#paper)"/>
   <rect x="1" y="1" width="978" height="558" rx="29" stroke="#D6A94F" stroke-width="1.5"/>
-  <circle cx="906" cy="84" r="96" fill="#10B981" opacity="0.14"/>
-  <circle cx="96" cy="492" r="118" fill="#F59E0B" opacity="0.16"/>
 
-  <rect x="46" y="34" width="888" height="76" rx="24" fill="url(#header)" filter="url(#shadow)"/>
+  <rect x="46" y="34" width="888" height="76" rx="24" fill="url(#header)" filter="url(#softShadow)"/>
   <text x="72" y="67" fill="#FFF7ED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="950">Technology Intelligence Snapshot</text>
-  <text x="72" y="93" fill="#FED7AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Languages = GitHub byte totals • Stack = framework/dependency detection • public repos only</text>
-  <text x="762" y="80" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">11 repos scanned</text>
+  <text x="72" y="93" fill="#FED7AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Languages = GitHub byte totals • Stack signals = dependency/file detection • public repos only</text>
+  <text x="704" y="79" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">6 repos scanned</text>
 
   <text x="46" y="132" fill="#431407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="950">Language Byte Mix</text>
   <g clip-path="url(#barClip)">
     <rect x="46" y="145" width="888" height="20" fill="#E7E5E4"/>
-    <rect x="46.00" y="145" width="436.09" height="20" fill="#2563EB"/>
-    <rect x="482.09" y="145" width="190.95" height="20" fill="#F59E0B"/>
-    <rect x="673.04" y="145" width="95.00" height="20" fill="#EA580C"/>
-    <rect x="768.04" y="145" width="54.68" height="20" fill="#BE185D"/>
-    <rect x="822.72" y="145" width="53.72" height="20" fill="#7C3AED"/>
-    <rect x="876.44" y="145" width="45.57" height="20" fill="#1D4ED8"/>
-    <rect x="922.01" y="145" width="9.48" height="20" fill="#0F766E"/>
-    <rect x="931.49" y="145" width="2.51" height="20" fill="#16A34A"/>
+    <rect x="46.00" y="145" width="632.56" height="20" fill="#2563EB"/> <rect x="678.56" y="145" width="125.33" height="20" fill="#EA580C"/> <rect x="803.89" y="145" width="92.42" height="20" fill="#F59E0B"/> <rect x="896.31" y="145" width="20.22" height="20" fill="#7C3AED"/> <rect x="916.53" y="145" width="13.75" height="20" fill="#0F766E"/> <rect x="930.29" y="145" width="3.71" height="20" fill="#16A34A"/>
   </g>
   <rect x="46" y="145" width="888" height="20" rx="10" stroke="#A16207" opacity="0.55"/>
 
-  <circle cx="60" cy="205" r="6" fill="#2563EB"/><text x="76" y="210" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">TypeScript</text><text x="245" y="210" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">49.11% • 1.9 MB</text>
-  <circle cx="490" cy="205" r="6" fill="#F59E0B"/><text x="506" y="210" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">JavaScript</text><text x="675" y="210" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">21.50% • 833.6 KB</text>
-  <circle cx="60" cy="247" r="6" fill="#EA580C"/><text x="76" y="252" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">HTML</text><text x="245" y="252" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">10.70% • 414.9 KB</text>
-  <circle cx="490" cy="247" r="6" fill="#BE185D"/><text x="506" y="252" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">SCSS</text><text x="675" y="252" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">6.16% • 238.8 KB</text>
-  <circle cx="60" cy="289" r="6" fill="#7C3AED"/><text x="76" y="294" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">CSS</text><text x="245" y="294" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">6.05% • 234.6 KB</text>
-  <circle cx="490" cy="289" r="6" fill="#1D4ED8"/><text x="506" y="294" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Less</text><text x="675" y="294" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">5.13% • 199.0 KB</text>
-  <circle cx="60" cy="331" r="6" fill="#0F766E"/><text x="76" y="336" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">PLpgSQL</text><text x="245" y="336" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">1.07% • 41.4 KB</text>
-  <circle cx="490" cy="331" r="6" fill="#16A34A"/><text x="506" y="336" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Shell</text><text x="675" y="336" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">0.29% • 11.2 KB</text>
+  <circle cx="60" cy="205" r="6" fill="#2563EB"/><text x="76" y="210" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">TypeScript</text><text x="245" y="210" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">71.23% • 1.9 MB</text><circle cx="490" cy="205" r="6" fill="#EA580C"/><text x="506" y="210" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">HTML</text><text x="675" y="210" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">14.11% • 377.3 KB</text><circle cx="60" cy="247" r="6" fill="#F59E0B"/><text x="76" y="252" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">JavaScript</text><text x="245" y="252" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">10.41% • 278.2 KB</text><circle cx="490" cy="247" r="6" fill="#7C3AED"/><text x="506" y="252" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">CSS</text><text x="675" y="252" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">2.28% • 60.9 KB</text><circle cx="60" cy="289" r="6" fill="#0F766E"/><text x="76" y="294" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">PLpgSQL</text><text x="245" y="294" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">1.55% • 41.4 KB</text><circle cx="490" cy="289" r="6" fill="#16A34A"/><text x="506" y="294" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Shell</text><text x="675" y="294" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">0.42% • 11.2 KB</text>
 
-  <rect x="46" y="365" width="888" height="1" fill="#D6A94F" opacity="0.75"/>
-  <text x="46" y="392" fill="#431407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="950">Framework / Product Stack Signals</text>
-  <text x="362" y="392" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Spring Boot is detected as a framework signal, not a language.</text>
+  <rect x="46" y="350" width="888" height="1" fill="#D6A94F" opacity="0.7"/>
+  <text x="46" y="377" fill="#431407" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="950">Framework / Product Stack Signals</text>
+  <text x="332" y="377" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Spring Boot appears here because it is a framework, not a language.</text>
 
-  <rect x="60" y="415" width="250" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="80" cy="432" r="6" fill="#16A34A"/><text x="96" y="437" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Spring Boot</text><text x="205" y="437" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">scan enabled</text>
-  <rect x="330" y="415" width="250" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="350" cy="432" r="6" fill="#0891B2"/><text x="366" y="437" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Flutter / Dart</text><text x="486" y="437" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">needs token</text>
-  <rect x="600" y="415" width="290" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="620" cy="432" r="6" fill="#059669"/><text x="636" y="437" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Supabase / PostgreSQL</text><text x="806" y="437" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">scan enabled</text>
+  <text x="60" y="395" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">React</text><rect x="230" y="383" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="230" y="383" width="180.00" height="10" rx="5" fill="#2563EB"/><text x="432" y="395" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">5 repos</text><text x="490" y="395" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Next.js</text><rect x="660" y="383" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="660" y="383" width="144.00" height="10" rx="5" fill="#111827"/><text x="862" y="395" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">4 repos</text><text x="60" y="431" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Tailwind CSS</text><rect x="230" y="419" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="230" y="419" width="144.00" height="10" rx="5" fill="#0D9488"/><text x="432" y="431" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">4 repos</text><text x="490" y="431" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">MongoDB</text><rect x="660" y="419" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="660" y="419" width="36.00" height="10" rx="5" fill="#16A34A"/><text x="862" y="431" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">1 repos</text><text x="60" y="467" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Node.js / Express</text><rect x="230" y="455" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="230" y="455" width="36.00" height="10" rx="5" fill="#65A30D"/><text x="432" y="467" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">1 repos</text><text x="490" y="467" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">PostgreSQL</text><rect x="660" y="455" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="660" y="455" width="36.00" height="10" rx="5" fill="#1D4ED8"/><text x="862" y="467" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">1 repos</text><text x="60" y="503" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Supabase</text><rect x="230" y="491" width="190" height="10" rx="5" fill="#E7E5E4"/><rect x="230" y="491" width="36.00" height="10" rx="5" fill="#059669"/><text x="432" y="503" fill="#78716C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">1 repos</text>
 
-  <rect x="60" y="462" width="250" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="80" cy="479" r="6" fill="#2563EB"/><text x="96" y="484" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">React / Next.js</text><text x="210" y="484" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">scan enabled</text>
-  <rect x="330" y="462" width="250" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="350" cy="479" r="6" fill="#292524"/><text x="366" y="484" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Kafka</text><text x="486" y="484" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">scan enabled</text>
-  <rect x="600" y="462" width="290" height="34" rx="17" fill="#FFFFFF" stroke="#D6A94F"/><circle cx="620" cy="479" r="6" fill="#1E40AF"/><text x="636" y="484" fill="#292524" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Razorpay / Payments</text><text x="806" y="484" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">scan enabled</text>
-
-  <rect x="46" y="515" width="888" height="1" fill="#D6A94F" opacity="0.75"/>
-  <text x="56" y="540" fill="#57534E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Updated 2026-06-20 06:37:57 UTC • GitHub Languages API</text>
-  <text x="624" y="540" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">Private repos need PROFILE_STATS_TOKEN for Dart/Flutter/Spring Boot totals</text>
+  <rect x="46" y="515" width="888" height="1" fill="#D6A94F" opacity="0.7"/>
+  <text x="56" y="540" fill="#57534E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Updated 2026-06-22 17:53:10 UTC • Latest push: 2026-05-06T11:38:48Z</text>
+  <text x="662" y="540" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">Private Flutter/Spring Boot repos require PROFILE_STATS_TOKEN</text>
 </svg>

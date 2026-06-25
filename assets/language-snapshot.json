@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-06-22 17:53:10",
+  "generated_at_utc": "2026-06-25 08:32:12",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -104,23 +104,87 @@
         "Node.js / Express",
         "React"
       ]
+    },
+    {
+      "name": "ankitraj6767/saiEnterprise",
+      "private": false,
+      "pushed_at": "2024-06-01T13:00:42Z",
+      "bytes": 246305,
+      "languages": {
+        "JavaScript": 217896,
+        "CSS": 16451,
+        "SCSS": 10167,
+        "HTML": 1764,
+        "Procfile": 27
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/Sai-enterprise",
+      "private": false,
+      "pushed_at": "2023-07-16T16:28:20Z",
+      "bytes": 246459,
+      "languages": {
+        "JavaScript": 218050,
+        "CSS": 16451,
+        "SCSS": 10167,
+        "HTML": 1764,
+        "Procfile": 27
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/covid19_tracker",
+      "private": false,
+      "pushed_at": "2022-09-15T07:45:26Z",
+      "bytes": 19829,
+      "languages": {
+        "JavaScript": 15669,
+        "CSS": 2439,
+        "HTML": 1721
+      },
+      "stack_signals": [
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/snakegame",
+      "private": false,
+      "pushed_at": "2022-08-09T03:54:04Z",
+      "bytes": 7801,
+      "languages": {
+        "JavaScript": 4143,
+        "HTML": 2316,
+        "CSS": 1342
+      },
+      "stack_signals": []
     }
   ],
-  "total_language_bytes": 2737225,
+  "total_language_bytes": 3257619,
   "languages": {
     "TypeScript": 1949837,
-    "HTML": 386333,
-    "JavaScript": 284890,
-    "CSS": 62326,
+    "JavaScript": 740648,
+    "HTML": 393898,
+    "CSS": 99009,
     "PLpgSQL": 42392,
-    "Shell": 11447
+    "SCSS": 20334,
+    "Shell": 11447,
+    "Procfile": 54
   },
   "stack_signals": {
-    "React": 5,
+    "React": 8,
     "Next.js": 4,
     "Tailwind CSS": 4,
-    "MongoDB": 1,
-    "Node.js / Express": 1,
+    "MongoDB": 3,
+    "Node.js / Express": 3,
     "PostgreSQL": 1,
     "Supabase": 1
   }

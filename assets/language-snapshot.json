@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-06-25 21:03:03",
+  "generated_at_utc": "2026-06-25 22:47:56",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -54,53 +54,21 @@
         "JavaScript": 7999
       },
       "stack_signals": []
-    },
-    {
-      "name": "ankitraj6767/weatherApplication",
-      "private": false,
-      "pushed_at": "2026-01-25T18:07:41Z",
-      "bytes": 167865,
-      "languages": {
-        "TypeScript": 163589,
-        "CSS": 3717,
-        "JavaScript": 559
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/translator",
-      "private": false,
-      "pushed_at": "2026-01-24T18:20:42Z",
-      "bytes": 609961,
-      "languages": {
-        "TypeScript": 596209,
-        "CSS": 9200,
-        "JavaScript": 4552
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
     }
   ],
-  "total_language_bytes": 1895368,
+  "total_language_bytes": 1117542,
   "languages": {
-    "TypeScript": 1284616,
+    "TypeScript": 524818,
     "HTML": 386333,
-    "JavaScript": 115324,
-    "CSS": 57820,
+    "JavaScript": 110213,
+    "CSS": 44903,
     "PLpgSQL": 42392,
     "Shell": 8883
   },
   "stack_signals": {
-    "React": 4,
-    "Tailwind CSS": 4,
-    "Next.js": 3,
+    "React": 2,
+    "Tailwind CSS": 2,
+    "Next.js": 1,
     "PostgreSQL": 1,
     "Supabase": 1
   }

@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-01 13:41:25",
+  "generated_at_utc": "2026-07-01 20:55:48",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -86,21 +86,41 @@
         "React",
         "Tailwind CSS"
       ]
+    },
+    {
+      "name": "ankitraj6767/restaurant",
+      "private": false,
+      "pushed_at": "2026-01-03T21:44:17Z",
+      "bytes": 841857,
+      "languages": {
+        "TypeScript": 665221,
+        "JavaScript": 169566,
+        "CSS": 4506,
+        "Shell": 2564
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
     }
   ],
-  "total_language_bytes": 1895368,
+  "total_language_bytes": 2737225,
   "languages": {
-    "TypeScript": 1284616,
+    "TypeScript": 1949837,
     "HTML": 386333,
-    "JavaScript": 115324,
-    "CSS": 57820,
+    "JavaScript": 284890,
+    "CSS": 62326,
     "PLpgSQL": 42392,
-    "Shell": 8883
+    "Shell": 11447
   },
   "stack_signals": {
-    "React": 4,
+    "React": 5,
+    "Next.js": 4,
     "Tailwind CSS": 4,
-    "Next.js": 3,
+    "MongoDB": 1,
+    "Node.js / Express": 1,
     "PostgreSQL": 1,
     "Supabase": 1
   }

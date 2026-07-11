@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-09 23:38:01",
+  "generated_at_utc": "2026-07-11 21:08:13",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -20,25 +20,6 @@
       },
       "stack_signals": [
         "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/sms",
-      "private": false,
-      "pushed_at": "2026-04-26T08:35:00Z",
-      "bytes": 572073,
-      "languages": {
-        "TypeScript": 524818,
-        "PLpgSQL": 42392,
-        "CSS": 4304,
-        "JavaScript": 559
-      },
-      "stack_signals": [
-        "Next.js",
-        "PostgreSQL",
-        "React",
-        "Supabase",
         "Tailwind CSS"
       ]
     },
@@ -168,24 +149,21 @@
       "stack_signals": []
     }
   ],
-  "total_language_bytes": 3257619,
+  "total_language_bytes": 2685546,
   "languages": {
-    "TypeScript": 1949837,
-    "JavaScript": 740648,
+    "TypeScript": 1425019,
+    "JavaScript": 740089,
     "HTML": 393898,
-    "CSS": 99009,
-    "PLpgSQL": 42392,
+    "CSS": 94705,
     "SCSS": 20334,
     "Shell": 11447,
     "Procfile": 54
   },
   "stack_signals": {
-    "React": 8,
-    "Next.js": 4,
-    "Tailwind CSS": 4,
+    "React": 7,
     "MongoDB": 3,
+    "Next.js": 3,
     "Node.js / Express": 3,
-    "PostgreSQL": 1,
-    "Supabase": 1
+    "Tailwind CSS": 3
   }
 }

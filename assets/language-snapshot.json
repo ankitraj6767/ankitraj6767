@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-12 19:32:54",
+  "generated_at_utc": "2026-07-15 14:12:02",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -8,6 +8,65 @@
   "includes_private_token": false,
   "note": "Dart/Flutter private repos require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
+    {
+      "name": "ankitraj6767/non-veg-junction",
+      "private": false,
+      "pushed_at": "2026-06-20T05:56:47Z",
+      "bytes": 2562807,
+      "languages": {
+        "Dart": 1564449,
+        "PLpgSQL": 886666,
+        "TypeScript": 81172,
+        "Shell": 20885,
+        "Ruby": 2782,
+        "Kotlin": 2563,
+        "HTML": 2414,
+        "Swift": 1800,
+        "Objective-C": 76
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "Razorpay",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/ShopHub",
+      "private": false,
+      "pushed_at": "2026-07-15T09:46:59Z",
+      "bytes": 1921905,
+      "languages": {
+        "JavaScript": 1915427,
+        "CSS": 6090,
+        "HTML": 388
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/PG-International-School",
+      "private": false,
+      "pushed_at": "2026-04-11T10:48:03Z",
+      "bytes": 2868001,
+      "languages": {
+        "TypeScript": 2843006,
+        "JavaScript": 15629,
+        "CSS": 4155,
+        "HTML": 3074,
+        "Dockerfile": 2137
+      },
+      "stack_signals": [
+        "Docker",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
+    },
     {
       "name": "ankitraj6767/Ankit-PortFolio",
       "private": false,
@@ -103,67 +162,35 @@
         "Node.js / Express",
         "React"
       ]
-    },
-    {
-      "name": "ankitraj6767/Sai-enterprise",
-      "private": false,
-      "pushed_at": "2023-07-16T16:28:20Z",
-      "bytes": 246459,
-      "languages": {
-        "JavaScript": 218050,
-        "CSS": 16451,
-        "SCSS": 10167,
-        "HTML": 1764,
-        "Procfile": 27
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Node.js / Express",
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/covid19_tracker",
-      "private": false,
-      "pushed_at": "2022-09-15T07:45:26Z",
-      "bytes": 19829,
-      "languages": {
-        "JavaScript": 15669,
-        "CSS": 2439,
-        "HTML": 1721
-      },
-      "stack_signals": [
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/snakegame",
-      "private": false,
-      "pushed_at": "2022-08-09T03:54:04Z",
-      "bytes": 7801,
-      "languages": {
-        "JavaScript": 4143,
-        "HTML": 2316,
-        "CSS": 1342
-      },
-      "stack_signals": []
     }
   ],
-  "total_language_bytes": 2685546,
+  "total_language_bytes": 9764170,
   "languages": {
-    "TypeScript": 1425019,
-    "JavaScript": 740089,
-    "HTML": 393898,
-    "CSS": 94705,
-    "SCSS": 20334,
-    "Shell": 11447,
-    "Procfile": 54
+    "TypeScript": 4349197,
+    "JavaScript": 2433283,
+    "Dart": 1564449,
+    "PLpgSQL": 886666,
+    "HTML": 393973,
+    "CSS": 84718,
+    "Shell": 32332,
+    "SCSS": 10167,
+    "Ruby": 2782,
+    "Kotlin": 2563,
+    "Dockerfile": 2137,
+    "Swift": 1800,
+    "Objective-C": 76,
+    "Procfile": 27
   },
   "stack_signals": {
-    "React": 7,
+    "React": 8,
+    "Next.js": 4,
+    "Node.js / Express": 4,
     "MongoDB": 3,
-    "Next.js": 3,
-    "Node.js / Express": 3,
-    "Tailwind CSS": 3
+    "Tailwind CSS": 3,
+    "Docker": 1,
+    "Flutter": 1,
+    "PostgreSQL": 1,
+    "Razorpay": 1,
+    "Supabase": 1
   }
 }

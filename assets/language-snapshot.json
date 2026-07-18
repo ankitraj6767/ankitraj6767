@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-18 12:36:42",
+  "generated_at_utc": "2026-07-18 18:35:47",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -11,17 +11,17 @@
     {
       "name": "ankitraj6767/ledgerpro",
       "private": false,
-      "pushed_at": "2026-07-18T11:03:01Z",
-      "bytes": 1064109,
+      "pushed_at": "2026-07-18T16:08:01Z",
+      "bytes": 1072001,
       "languages": {
-        "Dart": 679341,
+        "Dart": 682381,
         "PLpgSQL": 157176,
         "HTML": 130745,
         "C++": 28725,
         "CMake": 20572,
+        "PowerShell": 16560,
         "TypeScript": 15772,
         "Shell": 11978,
-        "PowerShell": 11708,
         "Swift": 3374,
         "Ruby": 2688,
         "C": 1488,
@@ -109,33 +109,20 @@
         "React",
         "Tailwind CSS"
       ]
-    },
-    {
-      "name": "ankitraj6767/partofspeech",
-      "private": false,
-      "pushed_at": "2026-04-25T00:33:01Z",
-      "bytes": 412964,
-      "languages": {
-        "HTML": 378220,
-        "CSS": 17862,
-        "Shell": 8883,
-        "JavaScript": 7999
-      },
-      "stack_signals": []
     }
   ],
-  "total_language_bytes": 8962291,
+  "total_language_bytes": 8557219,
   "languages": {
     "TypeScript": 2939950,
-    "Dart": 2243790,
-    "JavaScript": 2040710,
+    "Dart": 2246830,
+    "JavaScript": 2032711,
     "PLpgSQL": 1043842,
-    "HTML": 522954,
-    "CSS": 50844,
-    "Shell": 41746,
+    "HTML": 144734,
+    "CSS": 32982,
+    "Shell": 32863,
     "C++": 28725,
     "CMake": 20572,
-    "PowerShell": 11708,
+    "PowerShell": 16560,
     "Ruby": 5470,
     "Swift": 5174,
     "Kotlin": 2941,

@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-17 03:41:05",
+  "generated_at_utc": "2026-07-18 12:36:42",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -8,6 +8,34 @@
   "includes_private_token": false,
   "note": "Dart/Flutter private repos require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
+    {
+      "name": "ankitraj6767/ledgerpro",
+      "private": false,
+      "pushed_at": "2026-07-18T11:03:01Z",
+      "bytes": 1064109,
+      "languages": {
+        "Dart": 679341,
+        "PLpgSQL": 157176,
+        "HTML": 130745,
+        "C++": 28725,
+        "CMake": 20572,
+        "TypeScript": 15772,
+        "Shell": 11978,
+        "PowerShell": 11708,
+        "Swift": 3374,
+        "Ruby": 2688,
+        "C": 1488,
+        "Kotlin": 378,
+        "Batchfile": 126,
+        "Objective-C": 38
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "React",
+        "Supabase"
+      ]
+    },
     {
       "name": "ankitraj6767/non-veg-junction",
       "private": false,
@@ -35,7 +63,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-07-16T10:07:13Z",
+      "pushed_at": "2026-07-18T10:06:33Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -81,33 +109,51 @@
         "React",
         "Tailwind CSS"
       ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
+      },
+      "stack_signals": []
     }
   ],
-  "total_language_bytes": 7485218,
+  "total_language_bytes": 8962291,
   "languages": {
-    "TypeScript": 2924178,
-    "JavaScript": 2032711,
-    "Dart": 1564449,
-    "PLpgSQL": 886666,
-    "CSS": 32982,
-    "Shell": 20885,
-    "HTML": 13989,
-    "Ruby": 2782,
-    "Kotlin": 2563,
+    "TypeScript": 2939950,
+    "Dart": 2243790,
+    "JavaScript": 2040710,
+    "PLpgSQL": 1043842,
+    "HTML": 522954,
+    "CSS": 50844,
+    "Shell": 41746,
+    "C++": 28725,
+    "CMake": 20572,
+    "PowerShell": 11708,
+    "Ruby": 5470,
+    "Swift": 5174,
+    "Kotlin": 2941,
     "Dockerfile": 2137,
-    "Swift": 1800,
-    "Objective-C": 76
+    "C": 1488,
+    "Batchfile": 126,
+    "Objective-C": 114
   },
   "stack_signals": {
-    "React": 4,
+    "React": 5,
+    "Flutter": 2,
     "Node.js / Express": 2,
+    "PostgreSQL": 2,
+    "Supabase": 2,
     "Docker": 1,
-    "Flutter": 1,
     "MongoDB": 1,
     "Next.js": 1,
-    "PostgreSQL": 1,
     "Razorpay": 1,
-    "Supabase": 1,
     "Tailwind CSS": 1
   }
 }

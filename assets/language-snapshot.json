@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-18 18:35:47",
+  "generated_at_utc": "2026-07-24 01:59:05",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -11,10 +11,10 @@
     {
       "name": "ankitraj6767/ledgerpro",
       "private": false,
-      "pushed_at": "2026-07-18T16:08:01Z",
-      "bytes": 1072001,
+      "pushed_at": "2026-07-22T03:34:50Z",
+      "bytes": 1085047,
       "languages": {
-        "Dart": 682381,
+        "Dart": 695427,
         "PLpgSQL": 157176,
         "HTML": 130745,
         "C++": 28725,
@@ -63,7 +63,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-07-18T10:06:33Z",
+      "pushed_at": "2026-07-23T09:54:01Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -111,10 +111,10 @@
       ]
     }
   ],
-  "total_language_bytes": 8557219,
+  "total_language_bytes": 8570265,
   "languages": {
     "TypeScript": 2939950,
-    "Dart": 2246830,
+    "Dart": 2259876,
     "JavaScript": 2032711,
     "PLpgSQL": 1043842,
     "HTML": 144734,

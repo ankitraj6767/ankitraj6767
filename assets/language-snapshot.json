@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-07-26 23:37:26",
+  "generated_at_utc": "2026-07-27 00:59:15",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -138,92 +138,38 @@
         "React",
         "Tailwind CSS"
       ]
-    },
-    {
-      "name": "ankitraj6767/translator",
-      "private": false,
-      "pushed_at": "2026-01-24T18:20:42Z",
-      "bytes": 609961,
-      "languages": {
-        "TypeScript": 596209,
-        "CSS": 9200,
-        "JavaScript": 4552
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/restaurant",
-      "private": false,
-      "pushed_at": "2026-01-03T21:44:17Z",
-      "bytes": 841857,
-      "languages": {
-        "TypeScript": 665221,
-        "JavaScript": 169566,
-        "CSS": 4506,
-        "Shell": 2564
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Next.js",
-        "Node.js / Express",
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/saiEnterprise",
-      "private": false,
-      "pushed_at": "2024-06-01T13:00:42Z",
-      "bytes": 246305,
-      "languages": {
-        "JavaScript": 217896,
-        "CSS": 16451,
-        "SCSS": 10167,
-        "HTML": 1764,
-        "Procfile": 27
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Node.js / Express",
-        "React"
-      ]
     }
   ],
-  "total_language_bytes": 11252083,
+  "total_language_bytes": 9553960,
   "languages": {
-    "TypeScript": 4364969,
+    "TypeScript": 3103539,
     "Dart": 2636319,
-    "JavaScript": 2433283,
+    "JavaScript": 2041269,
     "PLpgSQL": 1070139,
-    "HTML": 524718,
-    "CSS": 84718,
-    "Shell": 44310,
+    "HTML": 522954,
+    "CSS": 54561,
+    "Shell": 41746,
     "C++": 28725,
     "CMake": 20572,
     "PowerShell": 16560,
-    "SCSS": 10167,
     "Ruby": 5470,
     "Swift": 5300,
     "Kotlin": 2941,
     "Dockerfile": 2137,
     "C": 1488,
     "Batchfile": 126,
-    "Objective-C": 114,
-    "Procfile": 27
+    "Objective-C": 114
   },
   "stack_signals": {
-    "React": 9,
-    "Next.js": 4,
-    "Node.js / Express": 4,
-    "MongoDB": 3,
-    "Tailwind CSS": 3,
+    "React": 6,
     "Flutter": 2,
+    "Next.js": 2,
+    "Node.js / Express": 2,
     "PostgreSQL": 2,
     "Supabase": 2,
+    "Tailwind CSS": 2,
     "Docker": 1,
+    "MongoDB": 1,
     "Razorpay": 1
   }
 }

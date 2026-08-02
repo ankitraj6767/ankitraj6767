@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-02 12:39:09",
+  "generated_at_utc": "2026-08-02 16:35:54",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -11,10 +11,10 @@
     {
       "name": "ankitraj6767/ledgerpro",
       "private": false,
-      "pushed_at": "2026-08-02T12:33:53Z",
-      "bytes": 1616424,
+      "pushed_at": "2026-08-02T16:33:40Z",
+      "bytes": 1642348,
       "languages": {
-        "Dart": 1194098,
+        "Dart": 1220022,
         "PLpgSQL": 188707,
         "HTML": 130745,
         "C++": 29688,
@@ -109,17 +109,30 @@
         "React",
         "Tailwind CSS"
       ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
+      },
+      "stack_signals": []
     }
   ],
-  "total_language_bytes": 9101642,
+  "total_language_bytes": 9540530,
   "languages": {
     "TypeScript": 2939950,
-    "Dart": 2758547,
-    "JavaScript": 2032711,
+    "Dart": 2784471,
+    "JavaScript": 2040710,
     "PLpgSQL": 1075373,
-    "HTML": 144734,
-    "CSS": 32982,
-    "Shell": 32863,
+    "HTML": 522954,
+    "CSS": 50844,
+    "Shell": 41746,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,

@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-02 16:35:54",
+  "generated_at_utc": "2026-08-03 22:37:14",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -8,34 +8,6 @@
   "includes_private_token": false,
   "note": "Dart/Flutter private repos require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
-    {
-      "name": "ankitraj6767/ledgerpro",
-      "private": false,
-      "pushed_at": "2026-08-02T16:33:40Z",
-      "bytes": 1642348,
-      "languages": {
-        "Dart": 1220022,
-        "PLpgSQL": 188707,
-        "HTML": 130745,
-        "C++": 29688,
-        "CMake": 20658,
-        "PowerShell": 16560,
-        "TypeScript": 15772,
-        "Shell": 11978,
-        "Swift": 3500,
-        "Ruby": 2688,
-        "C": 1488,
-        "Kotlin": 378,
-        "Batchfile": 126,
-        "Objective-C": 38
-      },
-      "stack_signals": [
-        "Flutter",
-        "PostgreSQL",
-        "React",
-        "Supabase"
-      ]
-    },
     {
       "name": "ankitraj6767/non-veg-junction",
       "private": false,
@@ -63,7 +35,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-08-02T10:02:08Z",
+      "pushed_at": "2026-08-03T10:06:26Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -124,36 +96,31 @@
       "stack_signals": []
     }
   ],
-  "total_language_bytes": 9540530,
+  "total_language_bytes": 7898182,
   "languages": {
-    "TypeScript": 2939950,
-    "Dart": 2784471,
+    "TypeScript": 2924178,
     "JavaScript": 2040710,
-    "PLpgSQL": 1075373,
-    "HTML": 522954,
+    "Dart": 1564449,
+    "PLpgSQL": 886666,
+    "HTML": 392209,
     "CSS": 50844,
-    "Shell": 41746,
-    "C++": 29688,
-    "CMake": 20658,
-    "PowerShell": 16560,
-    "Ruby": 5470,
-    "Swift": 5300,
-    "Kotlin": 2941,
+    "Shell": 29768,
+    "Ruby": 2782,
+    "Kotlin": 2563,
     "Dockerfile": 2137,
-    "C": 1488,
-    "Batchfile": 126,
-    "Objective-C": 114
+    "Swift": 1800,
+    "Objective-C": 76
   },
   "stack_signals": {
-    "React": 5,
-    "Flutter": 2,
+    "React": 4,
     "Node.js / Express": 2,
-    "PostgreSQL": 2,
-    "Supabase": 2,
     "Docker": 1,
+    "Flutter": 1,
     "MongoDB": 1,
     "Next.js": 1,
+    "PostgreSQL": 1,
     "Razorpay": 1,
+    "Supabase": 1,
     "Tailwind CSS": 1
   }
 }

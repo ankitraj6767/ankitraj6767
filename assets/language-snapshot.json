@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-07 10:34:22",
+  "generated_at_utc": "2026-08-07 20:29:23",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -109,30 +109,17 @@
         "React",
         "Tailwind CSS"
       ]
-    },
-    {
-      "name": "ankitraj6767/partofspeech",
-      "private": false,
-      "pushed_at": "2026-04-25T00:33:01Z",
-      "bytes": 412964,
-      "languages": {
-        "HTML": 378220,
-        "CSS": 17862,
-        "Shell": 8883,
-        "JavaScript": 7999
-      },
-      "stack_signals": []
     }
   ],
-  "total_language_bytes": 9549048,
+  "total_language_bytes": 9136084,
   "languages": {
     "TypeScript": 2939950,
     "Dart": 2792989,
-    "JavaScript": 2040710,
+    "JavaScript": 2032711,
     "PLpgSQL": 1075373,
-    "HTML": 522954,
-    "CSS": 50844,
-    "Shell": 41746,
+    "HTML": 144734,
+    "CSS": 32982,
+    "Shell": 32863,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,

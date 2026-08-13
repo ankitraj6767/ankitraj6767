@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-12 20:29:43",
+  "generated_at_utc": "2026-08-13 01:57:34",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -94,61 +94,20 @@
         "Node.js / Express",
         "React"
       ]
-    },
-    {
-      "name": "ankitraj6767/Ankit-PortFolio",
-      "private": false,
-      "pushed_at": "2026-05-06T11:38:48Z",
-      "bytes": 132505,
-      "languages": {
-        "JavaScript": 101655,
-        "CSS": 22737,
-        "HTML": 8113
-      },
-      "stack_signals": [
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/covid19_tracker",
-      "private": false,
-      "pushed_at": "2022-09-15T07:45:26Z",
-      "bytes": 19829,
-      "languages": {
-        "JavaScript": 15669,
-        "CSS": 2439,
-        "HTML": 1721
-      },
-      "stack_signals": [
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/snakegame",
-      "private": false,
-      "pushed_at": "2022-08-09T03:54:04Z",
-      "bytes": 7801,
-      "languages": {
-        "JavaScript": 4143,
-        "HTML": 2316,
-        "CSS": 1342
-      },
-      "stack_signals": []
     }
   ],
-  "total_language_bytes": 9163714,
+  "total_language_bytes": 9003579,
   "languages": {
     "TypeScript": 2939950,
     "Dart": 2792989,
-    "JavaScript": 2052523,
+    "JavaScript": 1931056,
     "PLpgSQL": 1075373,
-    "HTML": 148771,
-    "CSS": 36763,
+    "HTML": 136621,
     "Shell": 32863,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,
+    "CSS": 10245,
     "Ruby": 5470,
     "Swift": 5300,
     "Kotlin": 2941,
@@ -158,7 +117,7 @@
     "Objective-C": 114
   },
   "stack_signals": {
-    "React": 6,
+    "React": 4,
     "Flutter": 2,
     "Node.js / Express": 2,
     "PostgreSQL": 2,
@@ -166,7 +125,6 @@
     "Docker": 1,
     "MongoDB": 1,
     "Next.js": 1,
-    "Razorpay": 1,
-    "Tailwind CSS": 1
+    "Razorpay": 1
   }
 }

@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-13 04:56:32",
+  "generated_at_utc": "2026-08-13 23:29:52",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -63,7 +63,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-08-12T10:13:57Z",
+      "pushed_at": "2026-08-13T10:19:09Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -109,17 +109,62 @@
         "React",
         "Tailwind CSS"
       ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
+      },
+      "stack_signals": []
+    },
+    {
+      "name": "ankitraj6767/weatherApplication",
+      "private": false,
+      "pushed_at": "2026-01-25T18:07:41Z",
+      "bytes": 167865,
+      "languages": {
+        "TypeScript": 163589,
+        "CSS": 3717,
+        "JavaScript": 559
+      },
+      "stack_signals": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/translator",
+      "private": false,
+      "pushed_at": "2026-01-24T18:20:42Z",
+      "bytes": 609961,
+      "languages": {
+        "TypeScript": 596209,
+        "CSS": 9200,
+        "JavaScript": 4552
+      },
+      "stack_signals": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
     }
   ],
-  "total_language_bytes": 9136084,
+  "total_language_bytes": 10326874,
   "languages": {
-    "TypeScript": 2939950,
+    "TypeScript": 3699748,
     "Dart": 2792989,
-    "JavaScript": 2032711,
+    "JavaScript": 2045821,
     "PLpgSQL": 1075373,
-    "HTML": 144734,
-    "CSS": 32982,
-    "Shell": 32863,
+    "HTML": 522954,
+    "CSS": 63761,
+    "Shell": 41746,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,
@@ -132,15 +177,15 @@
     "Objective-C": 114
   },
   "stack_signals": {
-    "React": 5,
+    "React": 7,
+    "Next.js": 3,
+    "Tailwind CSS": 3,
     "Flutter": 2,
     "Node.js / Express": 2,
     "PostgreSQL": 2,
     "Supabase": 2,
     "Docker": 1,
     "MongoDB": 1,
-    "Next.js": 1,
-    "Razorpay": 1,
-    "Tailwind CSS": 1
+    "Razorpay": 1
   }
 }

@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-08-30 10:23:12",
+  "generated_at_utc": "2026-09-02 01:00:39",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -8,6 +8,34 @@
   "includes_private_token": false,
   "note": "Dart/Flutter private repos require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
+    {
+      "name": "ankitraj6767/ledgerpro",
+      "private": false,
+      "pushed_at": "2026-08-31T18:02:30Z",
+      "bytes": 1666240,
+      "languages": {
+        "Dart": 1232314,
+        "PLpgSQL": 200307,
+        "HTML": 130745,
+        "C++": 29688,
+        "CMake": 20658,
+        "PowerShell": 16560,
+        "TypeScript": 15772,
+        "Shell": 11978,
+        "Swift": 3500,
+        "Ruby": 2688,
+        "C": 1488,
+        "Kotlin": 378,
+        "Batchfile": 126,
+        "Objective-C": 38
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "React",
+        "Supabase"
+      ]
+    },
     {
       "name": "ankitraj6767/bitesbox",
       "private": false,
@@ -60,7 +88,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-08-29T09:50:58Z",
+      "pushed_at": "2026-09-01T09:50:23Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -72,68 +100,35 @@
         "Node.js / Express",
         "React"
       ]
-    },
-    {
-      "name": "ankitraj6767/PG-International-School",
-      "private": false,
-      "pushed_at": "2026-04-11T10:48:03Z",
-      "bytes": 2868001,
-      "languages": {
-        "TypeScript": 2843006,
-        "JavaScript": 15629,
-        "CSS": 4155,
-        "HTML": 3074,
-        "Dockerfile": 2137
-      },
-      "stack_signals": [
-        "Docker",
-        "Next.js",
-        "Node.js / Express",
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/Ankit-PortFolio",
-      "private": false,
-      "pushed_at": "2026-05-06T11:38:48Z",
-      "bytes": 132505,
-      "languages": {
-        "JavaScript": 101655,
-        "CSS": 22737,
-        "HTML": 8113
-      },
-      "stack_signals": [
-        "React",
-        "Tailwind CSS"
-      ]
     }
   ],
-  "total_language_bytes": 11077164,
+  "total_language_bytes": 9742898,
   "languages": {
-    "TypeScript": 4514805,
-    "Dart": 2557761,
-    "JavaScript": 2034603,
-    "PLpgSQL": 1849218,
-    "CSS": 37302,
-    "Shell": 35030,
+    "Dart": 3790075,
+    "PLpgSQL": 2049525,
+    "JavaScript": 1917319,
+    "TypeScript": 1687571,
+    "HTML": 133547,
+    "Shell": 47008,
+    "C++": 29688,
     "Python": 21732,
-    "HTML": 13989,
-    "Ruby": 4183,
-    "Swift": 3603,
-    "Kotlin": 2687,
-    "Dockerfile": 2137,
-    "Objective-C": 114
+    "CMake": 20658,
+    "PowerShell": 16560,
+    "CSS": 10410,
+    "Swift": 7103,
+    "Ruby": 6871,
+    "Kotlin": 3065,
+    "C": 1488,
+    "Objective-C": 152,
+    "Batchfile": 126
   },
   "stack_signals": {
-    "React": 5,
-    "Node.js / Express": 2,
-    "PostgreSQL": 2,
+    "React": 4,
+    "PostgreSQL": 3,
+    "Supabase": 3,
+    "Flutter": 2,
     "Razorpay": 2,
-    "Supabase": 2,
-    "Docker": 1,
-    "Flutter": 1,
     "MongoDB": 1,
-    "Next.js": 1,
-    "Tailwind CSS": 1
+    "Node.js / Express": 1
   }
 }

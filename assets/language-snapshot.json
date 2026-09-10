@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-09-10 04:30:30",
+  "generated_at_utc": "2026-09-10 14:26:38",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -100,36 +100,158 @@
         "React",
         "Supabase"
       ]
+    },
+    {
+      "name": "ankitraj6767/non-veg-junction",
+      "private": false,
+      "pushed_at": "2026-09-04T17:37:08Z",
+      "bytes": 2562807,
+      "languages": {
+        "Dart": 1564449,
+        "PLpgSQL": 886666,
+        "TypeScript": 81172,
+        "Shell": 20885,
+        "Ruby": 2782,
+        "Kotlin": 2563,
+        "HTML": 2414,
+        "Swift": 1800,
+        "Objective-C": 76
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "Razorpay",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/ShopHub",
+      "private": false,
+      "pushed_at": "2026-09-10T09:46:02Z",
+      "bytes": 1921905,
+      "languages": {
+        "JavaScript": 1915427,
+        "CSS": 6090,
+        "HTML": 388
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/PG-International-School",
+      "private": false,
+      "pushed_at": "2026-04-11T10:48:03Z",
+      "bytes": 2868001,
+      "languages": {
+        "TypeScript": 2843006,
+        "JavaScript": 15629,
+        "CSS": 4155,
+        "HTML": 3074,
+        "Dockerfile": 2137
+      },
+      "stack_signals": [
+        "Docker",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/Ankit-PortFolio",
+      "private": false,
+      "pushed_at": "2026-05-06T11:38:48Z",
+      "bytes": 132505,
+      "languages": {
+        "JavaScript": 101655,
+        "CSS": 22737,
+        "HTML": 8113
+      },
+      "stack_signals": [
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
+      },
+      "stack_signals": []
+    },
+    {
+      "name": "ankitraj6767/weatherApplication",
+      "private": false,
+      "pushed_at": "2026-01-25T18:07:41Z",
+      "bytes": 167865,
+      "languages": {
+        "TypeScript": 163589,
+        "CSS": 3717,
+        "JavaScript": 559
+      },
+      "stack_signals": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/translator",
+      "private": false,
+      "pushed_at": "2026-01-24T18:20:42Z",
+      "bytes": 609961,
+      "languages": {
+        "TypeScript": 596209,
+        "CSS": 9200,
+        "JavaScript": 4552
+      },
+      "stack_signals": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
     }
   ],
-  "total_language_bytes": 10723987,
+  "total_language_bytes": 19399995,
   "languages": {
-    "TypeScript": 6230993,
-    "Dart": 2304052,
-    "PLpgSQL": 1859454,
-    "HTML": 130745,
-    "JavaScript": 50495,
-    "Shell": 31760,
+    "TypeScript": 9914969,
+    "Dart": 3868501,
+    "PLpgSQL": 2746120,
+    "JavaScript": 2096316,
+    "HTML": 522954,
+    "CSS": 79504,
+    "Shell": 61528,
     "C++": 29688,
     "Python": 21732,
     "CMake": 20658,
     "PowerShell": 16560,
-    "CSS": 15743,
-    "Swift": 5303,
-    "Ruby": 4089,
+    "Swift": 7103,
+    "Ruby": 6871,
+    "Kotlin": 3588,
+    "Dockerfile": 2137,
     "C": 1488,
-    "Kotlin": 1025,
-    "Batchfile": 126,
-    "Objective-C": 76
+    "Objective-C": 152,
+    "Batchfile": 126
   },
   "stack_signals": {
-    "React": 4,
-    "PostgreSQL": 3,
-    "Supabase": 3,
-    "Flutter": 2,
-    "Next.js": 2,
-    "MongoDB": 1,
-    "Razorpay": 1,
-    "Tailwind CSS": 1
+    "React": 10,
+    "Next.js": 5,
+    "PostgreSQL": 4,
+    "Supabase": 4,
+    "Tailwind CSS": 4,
+    "Flutter": 3,
+    "MongoDB": 2,
+    "Node.js / Express": 2,
+    "Razorpay": 2,
+    "Docker": 1
   }
 }

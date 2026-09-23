@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-09-22 22:25:02",
+  "generated_at_utc": "2026-09-23 11:26:20",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -128,7 +128,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-09-22T10:06:52Z",
+      "pushed_at": "2026-09-23T10:15:07Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -187,32 +187,16 @@
         "JavaScript": 7999
       },
       "stack_signals": []
-    },
-    {
-      "name": "ankitraj6767/weatherApplication",
-      "private": false,
-      "pushed_at": "2026-01-25T18:07:41Z",
-      "bytes": 167865,
-      "languages": {
-        "TypeScript": 163589,
-        "CSS": 3717,
-        "JavaScript": 559
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
     }
   ],
-  "total_language_bytes": 18790034,
+  "total_language_bytes": 18622169,
   "languages": {
-    "TypeScript": 9318760,
+    "TypeScript": 9155171,
     "Dart": 3868501,
     "PLpgSQL": 2746120,
-    "JavaScript": 2091764,
+    "JavaScript": 2091205,
     "HTML": 522954,
-    "CSS": 70304,
+    "CSS": 66587,
     "Shell": 61528,
     "C++": 29688,
     "Python": 21732,
@@ -227,15 +211,15 @@
     "Batchfile": 126
   },
   "stack_signals": {
-    "React": 9,
-    "Next.js": 4,
+    "React": 8,
     "PostgreSQL": 4,
     "Supabase": 4,
     "Flutter": 3,
-    "Tailwind CSS": 3,
+    "Next.js": 3,
     "MongoDB": 2,
     "Node.js / Express": 2,
     "Razorpay": 2,
+    "Tailwind CSS": 2,
     "Docker": 1
   }
 }

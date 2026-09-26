@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-09-25 10:28:47",
+  "generated_at_utc": "2026-09-26 18:30:48",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -126,60 +126,100 @@
       ]
     },
     {
-      "name": "ankitraj6767/covid19_tracker",
+      "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2022-09-15T07:45:26Z",
-      "bytes": 19829,
+      "pushed_at": "2026-09-26T09:46:17Z",
+      "bytes": 1921905,
       "languages": {
-        "JavaScript": 15669,
-        "CSS": 2439,
-        "HTML": 1721
+        "JavaScript": 1915427,
+        "CSS": 6090,
+        "HTML": 388
       },
       "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
         "React"
       ]
     },
     {
-      "name": "ankitraj6767/snakegame",
+      "name": "ankitraj6767/PG-International-School",
       "private": false,
-      "pushed_at": "2022-08-09T03:54:04Z",
-      "bytes": 7801,
+      "pushed_at": "2026-04-11T10:48:03Z",
+      "bytes": 2868001,
       "languages": {
-        "JavaScript": 4143,
-        "HTML": 2316,
-        "CSS": 1342
+        "TypeScript": 2843006,
+        "JavaScript": 15629,
+        "CSS": 4155,
+        "HTML": 3074,
+        "Dockerfile": 2137
+      },
+      "stack_signals": [
+        "Docker",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/Ankit-PortFolio",
+      "private": false,
+      "pushed_at": "2026-05-06T11:38:48Z",
+      "bytes": 132505,
+      "languages": {
+        "JavaScript": 101655,
+        "CSS": 22737,
+        "HTML": 8113
+      },
+      "stack_signals": [
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
       },
       "stack_signals": []
     }
   ],
-  "total_language_bytes": 13314424,
+  "total_language_bytes": 18622169,
   "languages": {
-    "TypeScript": 6312165,
+    "TypeScript": 9155171,
     "Dart": 3868501,
     "PLpgSQL": 2746120,
-    "HTML": 137196,
-    "JavaScript": 70307,
-    "Shell": 52645,
+    "JavaScript": 2091205,
+    "HTML": 522954,
+    "CSS": 66587,
+    "Shell": 61528,
     "C++": 29688,
     "Python": 21732,
     "CMake": 20658,
-    "CSS": 19524,
     "PowerShell": 16560,
     "Swift": 7103,
     "Ruby": 6871,
     "Kotlin": 3588,
+    "Dockerfile": 2137,
     "C": 1488,
     "Objective-C": 152,
     "Batchfile": 126
   },
   "stack_signals": {
-    "React": 6,
+    "React": 8,
     "PostgreSQL": 4,
     "Supabase": 4,
     "Flutter": 3,
-    "Next.js": 2,
+    "Next.js": 3,
+    "MongoDB": 2,
+    "Node.js / Express": 2,
     "Razorpay": 2,
-    "MongoDB": 1,
-    "Tailwind CSS": 1
+    "Tailwind CSS": 2,
+    "Docker": 1
   }
 }

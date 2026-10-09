@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-07 21:28:45",
+  "generated_at_utc": "2026-10-09 08:40:12",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -75,61 +75,34 @@
         "React",
         "Supabase"
       ]
-    },
-    {
-      "name": "ankitraj6767/bitesbox",
-      "private": false,
-      "pushed_at": "2026-08-21T10:55:47Z",
-      "bytes": 3591946,
-      "languages": {
-        "TypeScript": 1590627,
-        "Dart": 993312,
-        "PLpgSQL": 962552,
-        "Python": 21732,
-        "Shell": 14145,
-        "CSS": 4320,
-        "JavaScript": 1892,
-        "Swift": 1803,
-        "Ruby": 1401,
-        "Kotlin": 124,
-        "Objective-C": 38
-      },
-      "stack_signals": [
-        "PostgreSQL",
-        "Razorpay",
-        "React",
-        "Supabase"
-      ]
     }
   ],
-  "total_language_bytes": 10723987,
+  "total_language_bytes": 7132041,
   "languages": {
-    "TypeScript": 6230993,
-    "Dart": 2304052,
-    "PLpgSQL": 1859454,
+    "TypeScript": 4640366,
+    "Dart": 1310740,
+    "PLpgSQL": 896902,
     "HTML": 130745,
-    "JavaScript": 50495,
-    "Shell": 31760,
+    "JavaScript": 48603,
     "C++": 29688,
-    "Python": 21732,
     "CMake": 20658,
+    "Shell": 17615,
     "PowerShell": 16560,
-    "CSS": 15743,
-    "Swift": 5303,
-    "Ruby": 4089,
+    "CSS": 11423,
+    "Swift": 3500,
+    "Ruby": 2688,
     "C": 1488,
-    "Kotlin": 1025,
+    "Kotlin": 901,
     "Batchfile": 126,
-    "Objective-C": 76
+    "Objective-C": 38
   },
   "stack_signals": {
-    "React": 4,
-    "PostgreSQL": 3,
-    "Supabase": 3,
+    "React": 3,
     "Flutter": 2,
     "Next.js": 2,
+    "PostgreSQL": 2,
+    "Supabase": 2,
     "MongoDB": 1,
-    "Razorpay": 1,
     "Tailwind CSS": 1
   }
 }

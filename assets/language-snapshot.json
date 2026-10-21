@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-20 14:28:33",
+  "generated_at_utc": "2026-10-21 03:33:27",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -11,10 +11,10 @@
     {
       "name": "ankitraj6767/ledgerpro",
       "private": false,
-      "pushed_at": "2026-10-20T14:21:00Z",
-      "bytes": 1721804,
+      "pushed_at": "2026-10-20T17:01:13Z",
+      "bytes": 1757543,
       "languages": {
-        "Dart": 1285154,
+        "Dart": 1320893,
         "PLpgSQL": 203031,
         "HTML": 130745,
         "C++": 29688,
@@ -124,21 +124,37 @@
         "React",
         "Supabase"
       ]
+    },
+    {
+      "name": "ankitraj6767/ShopHub",
+      "private": false,
+      "pushed_at": "2026-10-20T09:58:52Z",
+      "bytes": 1921905,
+      "languages": {
+        "JavaScript": 1915427,
+        "CSS": 6090,
+        "HTML": 388
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
     }
   ],
-  "total_language_bytes": 13317942,
+  "total_language_bytes": 15275586,
   "languages": {
     "TypeScript": 6312165,
-    "Dart": 3899649,
+    "Dart": 3935388,
     "PLpgSQL": 2746120,
-    "HTML": 133159,
+    "JavaScript": 1965922,
+    "HTML": 133547,
     "Shell": 52645,
-    "JavaScript": 50495,
     "C++": 29688,
+    "CSS": 21833,
     "Python": 21732,
     "CMake": 20658,
     "PowerShell": 16560,
-    "CSS": 15743,
     "Swift": 7103,
     "Ruby": 6871,
     "Kotlin": 3588,
@@ -147,13 +163,14 @@
     "Batchfile": 126
   },
   "stack_signals": {
-    "React": 5,
+    "React": 6,
     "PostgreSQL": 4,
     "Supabase": 4,
     "Flutter": 3,
+    "MongoDB": 2,
     "Next.js": 2,
     "Razorpay": 2,
-    "MongoDB": 1,
+    "Node.js / Express": 1,
     "Tailwind CSS": 1
   }
 }

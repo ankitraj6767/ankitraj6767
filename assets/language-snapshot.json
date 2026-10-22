@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-21 11:28:02",
+  "generated_at_utc": "2026-10-22 23:26:06",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -8,6 +8,60 @@
   "includes_private_token": false,
   "note": "Dart/Flutter private repos require PROFILE_STATS_TOKEN. Spring Boot is a framework signal, not a language byte category.",
   "counted_repositories": [
+    {
+      "name": "ankitraj6767/bitesbox",
+      "private": false,
+      "pushed_at": "2026-10-22T16:18:43Z",
+      "bytes": 3731203,
+      "languages": {
+        "TypeScript": 1621872,
+        "PLpgSQL": 1036285,
+        "Dart": 1024337,
+        "Python": 21732,
+        "Shell": 16090,
+        "CSS": 4320,
+        "JavaScript": 3201,
+        "Swift": 1803,
+        "Ruby": 1401,
+        "Kotlin": 124,
+        "Objective-C": 38
+      },
+      "stack_signals": [
+        "PostgreSQL",
+        "Razorpay",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/ledgerpro",
+      "private": false,
+      "pushed_at": "2026-10-22T03:12:30Z",
+      "bytes": 1768588,
+      "languages": {
+        "Dart": 1320893,
+        "PLpgSQL": 203031,
+        "HTML": 130745,
+        "C++": 29688,
+        "CMake": 20658,
+        "PowerShell": 16560,
+        "TypeScript": 15772,
+        "Shell": 14390,
+        "Python": 8633,
+        "Swift": 3500,
+        "Ruby": 2688,
+        "C": 1488,
+        "Kotlin": 378,
+        "Batchfile": 126,
+        "Objective-C": 38
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "React",
+        "Supabase"
+      ]
+    },
     {
       "name": "ankitraj6767/admissionsathi",
       "private": false,
@@ -24,34 +78,6 @@
         "Next.js",
         "React",
         "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/ledgerpro",
-      "private": false,
-      "pushed_at": "2026-10-20T17:01:13Z",
-      "bytes": 1757543,
-      "languages": {
-        "Dart": 1320893,
-        "PLpgSQL": 203031,
-        "HTML": 130745,
-        "C++": 29688,
-        "CMake": 20658,
-        "PowerShell": 16560,
-        "TypeScript": 15772,
-        "Shell": 11978,
-        "Swift": 3500,
-        "Ruby": 2688,
-        "C": 1488,
-        "Kotlin": 378,
-        "Batchfile": 126,
-        "Objective-C": 38
-      },
-      "stack_signals": [
-        "Flutter",
-        "PostgreSQL",
-        "React",
-        "Supabase"
       ]
     },
     {
@@ -72,31 +98,6 @@
         "Flutter",
         "Next.js",
         "PostgreSQL",
-        "React",
-        "Supabase"
-      ]
-    },
-    {
-      "name": "ankitraj6767/bitesbox",
-      "private": false,
-      "pushed_at": "2026-08-21T10:55:47Z",
-      "bytes": 3591946,
-      "languages": {
-        "TypeScript": 1590627,
-        "Dart": 993312,
-        "PLpgSQL": 962552,
-        "Python": 21732,
-        "Shell": 14145,
-        "CSS": 4320,
-        "JavaScript": 1892,
-        "Swift": 1803,
-        "Ruby": 1401,
-        "Kotlin": 124,
-        "Objective-C": 38
-      },
-      "stack_signals": [
-        "PostgreSQL",
-        "Razorpay",
         "React",
         "Supabase"
       ]
@@ -128,7 +129,7 @@
     {
       "name": "ankitraj6767/ShopHub",
       "private": false,
-      "pushed_at": "2026-10-21T09:49:09Z",
+      "pushed_at": "2026-10-22T09:59:37Z",
       "bytes": 1921905,
       "languages": {
         "JavaScript": 1915427,
@@ -219,19 +220,37 @@
         "React",
         "Tailwind CSS"
       ]
+    },
+    {
+      "name": "ankitraj6767/restaurant",
+      "private": false,
+      "pushed_at": "2026-01-03T21:44:17Z",
+      "bytes": 841857,
+      "languages": {
+        "TypeScript": 665221,
+        "JavaScript": 169566,
+        "CSS": 4506,
+        "Shell": 2564
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
     }
   ],
-  "total_language_bytes": 19511118,
+  "total_language_bytes": 20503277,
   "languages": {
-    "TypeScript": 9951404,
-    "Dart": 3935388,
-    "PLpgSQL": 2746120,
-    "JavaScript": 2100715,
+    "TypeScript": 10647870,
+    "Dart": 3966413,
+    "PLpgSQL": 2819853,
+    "JavaScript": 2271590,
     "HTML": 522954,
-    "CSS": 82906,
-    "Shell": 61528,
+    "CSS": 87412,
+    "Shell": 68449,
+    "Python": 30365,
     "C++": 29688,
-    "Python": 21732,
     "CMake": 20658,
     "PowerShell": 16560,
     "Swift": 7103,
@@ -243,14 +262,14 @@
     "Batchfile": 126
   },
   "stack_signals": {
-    "React": 10,
-    "Next.js": 5,
+    "React": 11,
+    "Next.js": 6,
     "PostgreSQL": 4,
     "Supabase": 4,
     "Tailwind CSS": 4,
     "Flutter": 3,
-    "MongoDB": 2,
-    "Node.js / Express": 2,
+    "MongoDB": 3,
+    "Node.js / Express": 3,
     "Razorpay": 2,
     "Docker": 1
   }

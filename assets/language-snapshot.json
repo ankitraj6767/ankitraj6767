@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-22 23:26:06",
+  "generated_at_utc": "2026-10-23 23:25:37",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -11,16 +11,16 @@
     {
       "name": "ankitraj6767/bitesbox",
       "private": false,
-      "pushed_at": "2026-10-22T16:18:43Z",
-      "bytes": 3731203,
+      "pushed_at": "2026-10-23T18:04:03Z",
+      "bytes": 4594855,
       "languages": {
-        "TypeScript": 1621872,
-        "PLpgSQL": 1036285,
-        "Dart": 1024337,
+        "TypeScript": 2006576,
+        "PLpgSQL": 1255645,
+        "Dart": 1234766,
+        "JavaScript": 41827,
         "Python": 21732,
         "Shell": 16090,
-        "CSS": 4320,
-        "JavaScript": 3201,
+        "CSS": 14853,
         "Swift": 1803,
         "Ruby": 1401,
         "Kotlin": 124,
@@ -127,14 +127,16 @@
       ]
     },
     {
-      "name": "ankitraj6767/ShopHub",
+      "name": "ankitraj6767/Sai-enterprise",
       "private": false,
-      "pushed_at": "2026-10-22T09:59:37Z",
-      "bytes": 1921905,
+      "pushed_at": "2023-07-16T16:28:20Z",
+      "bytes": 246459,
       "languages": {
-        "JavaScript": 1915427,
-        "CSS": 6090,
-        "HTML": 388
+        "JavaScript": 218050,
+        "CSS": 16451,
+        "SCSS": 10167,
+        "HTML": 1764,
+        "Procfile": 27
       },
       "stack_signals": [
         "MongoDB",
@@ -143,134 +145,63 @@
       ]
     },
     {
-      "name": "ankitraj6767/PG-International-School",
+      "name": "ankitraj6767/covid19_tracker",
       "private": false,
-      "pushed_at": "2026-04-11T10:48:03Z",
-      "bytes": 2868001,
+      "pushed_at": "2022-09-15T07:45:26Z",
+      "bytes": 19829,
       "languages": {
-        "TypeScript": 2843006,
-        "JavaScript": 15629,
-        "CSS": 4155,
-        "HTML": 3074,
-        "Dockerfile": 2137
+        "JavaScript": 15669,
+        "CSS": 2439,
+        "HTML": 1721
       },
       "stack_signals": [
-        "Docker",
-        "Next.js",
-        "Node.js / Express",
         "React"
       ]
     },
     {
-      "name": "ankitraj6767/Ankit-PortFolio",
+      "name": "ankitraj6767/snakegame",
       "private": false,
-      "pushed_at": "2026-05-06T11:38:48Z",
-      "bytes": 132505,
+      "pushed_at": "2022-08-09T03:54:04Z",
+      "bytes": 7801,
       "languages": {
-        "JavaScript": 101655,
-        "CSS": 22737,
-        "HTML": 8113
-      },
-      "stack_signals": [
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/partofspeech",
-      "private": false,
-      "pushed_at": "2026-04-25T00:33:01Z",
-      "bytes": 412964,
-      "languages": {
-        "HTML": 378220,
-        "CSS": 17862,
-        "Shell": 8883,
-        "JavaScript": 7999
+        "JavaScript": 4143,
+        "HTML": 2316,
+        "CSS": 1342
       },
       "stack_signals": []
-    },
-    {
-      "name": "ankitraj6767/weatherApplication",
-      "private": false,
-      "pushed_at": "2026-01-25T18:07:41Z",
-      "bytes": 167865,
-      "languages": {
-        "TypeScript": 163589,
-        "CSS": 3717,
-        "JavaScript": 559
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/translator",
-      "private": false,
-      "pushed_at": "2026-01-24T18:20:42Z",
-      "bytes": 609961,
-      "languages": {
-        "TypeScript": 596209,
-        "CSS": 9200,
-        "JavaScript": 4552
-      },
-      "stack_signals": [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "name": "ankitraj6767/restaurant",
-      "private": false,
-      "pushed_at": "2026-01-03T21:44:17Z",
-      "bytes": 841857,
-      "languages": {
-        "TypeScript": 665221,
-        "JavaScript": 169566,
-        "CSS": 4506,
-        "Shell": 2564
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Next.js",
-        "Node.js / Express",
-        "React"
-      ]
     }
   ],
-  "total_language_bytes": 20503277,
+  "total_language_bytes": 14685960,
   "languages": {
-    "TypeScript": 10647870,
-    "Dart": 3966413,
-    "PLpgSQL": 2819853,
-    "JavaScript": 2271590,
-    "HTML": 522954,
-    "CSS": 87412,
-    "Shell": 68449,
+    "TypeScript": 6764549,
+    "Dart": 4176842,
+    "PLpgSQL": 3039213,
+    "JavaScript": 332691,
+    "HTML": 138960,
+    "Shell": 57002,
+    "CSS": 49910,
     "Python": 30365,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,
+    "SCSS": 10167,
     "Swift": 7103,
     "Ruby": 6871,
     "Kotlin": 3588,
-    "Dockerfile": 2137,
     "C": 1488,
     "Objective-C": 152,
-    "Batchfile": 126
+    "Batchfile": 126,
+    "Procfile": 27
   },
   "stack_signals": {
-    "React": 11,
-    "Next.js": 6,
+    "React": 7,
     "PostgreSQL": 4,
     "Supabase": 4,
-    "Tailwind CSS": 4,
     "Flutter": 3,
-    "MongoDB": 3,
-    "Node.js / Express": 3,
+    "MongoDB": 2,
+    "Next.js": 2,
     "Razorpay": 2,
-    "Docker": 1
+    "Node.js / Express": 1,
+    "Tailwind CSS": 1
   }
 }

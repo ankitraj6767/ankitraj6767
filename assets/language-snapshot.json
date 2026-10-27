@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-26 21:27:42",
+  "generated_at_utc": "2026-10-27 04:32:14",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -101,123 +101,36 @@
         "React",
         "Supabase"
       ]
-    },
-    {
-      "name": "ankitraj6767/non-veg-junction",
-      "private": false,
-      "pushed_at": "2026-09-04T17:37:08Z",
-      "bytes": 2562807,
-      "languages": {
-        "Dart": 1564449,
-        "PLpgSQL": 886666,
-        "TypeScript": 81172,
-        "Shell": 20885,
-        "Ruby": 2782,
-        "Kotlin": 2563,
-        "HTML": 2414,
-        "Swift": 1800,
-        "Objective-C": 76
-      },
-      "stack_signals": [
-        "Flutter",
-        "PostgreSQL",
-        "Razorpay",
-        "React",
-        "Supabase"
-      ]
-    },
-    {
-      "name": "ankitraj6767/ShopHub",
-      "private": false,
-      "pushed_at": "2026-10-26T10:15:39Z",
-      "bytes": 1921905,
-      "languages": {
-        "JavaScript": 1915427,
-        "CSS": 6090,
-        "HTML": 388
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Node.js / Express",
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/Sai-enterprise",
-      "private": false,
-      "pushed_at": "2023-07-16T16:28:20Z",
-      "bytes": 246459,
-      "languages": {
-        "JavaScript": 218050,
-        "CSS": 16451,
-        "SCSS": 10167,
-        "HTML": 1764,
-        "Procfile": 27
-      },
-      "stack_signals": [
-        "MongoDB",
-        "Node.js / Express",
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/covid19_tracker",
-      "private": false,
-      "pushed_at": "2022-09-15T07:45:26Z",
-      "bytes": 19829,
-      "languages": {
-        "JavaScript": 15669,
-        "CSS": 2439,
-        "HTML": 1721
-      },
-      "stack_signals": [
-        "React"
-      ]
-    },
-    {
-      "name": "ankitraj6767/snakegame",
-      "private": false,
-      "pushed_at": "2022-08-09T03:54:04Z",
-      "bytes": 7801,
-      "languages": {
-        "JavaScript": 4143,
-        "HTML": 2316,
-        "CSS": 1342
-      },
-      "stack_signals": []
     }
   ],
-  "total_language_bytes": 17071660,
+  "total_language_bytes": 12312859,
   "languages": {
-    "TypeScript": 6865409,
-    "Dart": 4386368,
-    "PLpgSQL": 3167314,
-    "JavaScript": 2255044,
-    "HTML": 139348,
-    "CSS": 71518,
-    "Shell": 57002,
+    "TypeScript": 6784237,
+    "Dart": 2821919,
+    "PLpgSQL": 2280648,
+    "HTML": 130745,
+    "JavaScript": 101755,
+    "CSS": 45196,
+    "Shell": 36117,
     "Python": 33229,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,
-    "SCSS": 10167,
-    "Swift": 7103,
-    "Ruby": 6871,
-    "Kotlin": 3588,
+    "Swift": 5303,
+    "Ruby": 4089,
     "C": 1488,
-    "Objective-C": 152,
+    "Kotlin": 1025,
     "Batchfile": 126,
-    "Procfile": 27
+    "Objective-C": 76
   },
   "stack_signals": {
-    "React": 8,
-    "PostgreSQL": 4,
-    "Supabase": 4,
-    "Flutter": 3,
-    "MongoDB": 3,
+    "React": 4,
+    "PostgreSQL": 3,
+    "Supabase": 3,
+    "Flutter": 2,
     "Next.js": 2,
-    "Node.js / Express": 2,
-    "Razorpay": 2,
+    "MongoDB": 1,
+    "Razorpay": 1,
     "Tailwind CSS": 1
   }
 }

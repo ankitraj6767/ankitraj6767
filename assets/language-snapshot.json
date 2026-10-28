@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-10-27 04:32:14",
+  "generated_at_utc": "2026-10-28 18:26:06",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -101,36 +101,60 @@
         "React",
         "Supabase"
       ]
+    },
+    {
+      "name": "ankitraj6767/non-veg-junction",
+      "private": false,
+      "pushed_at": "2026-09-04T17:37:08Z",
+      "bytes": 2562807,
+      "languages": {
+        "Dart": 1564449,
+        "PLpgSQL": 886666,
+        "TypeScript": 81172,
+        "Shell": 20885,
+        "Ruby": 2782,
+        "Kotlin": 2563,
+        "HTML": 2414,
+        "Swift": 1800,
+        "Objective-C": 76
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "Razorpay",
+        "React",
+        "Supabase"
+      ]
     }
   ],
-  "total_language_bytes": 12312859,
+  "total_language_bytes": 14875666,
   "languages": {
-    "TypeScript": 6784237,
-    "Dart": 2821919,
-    "PLpgSQL": 2280648,
-    "HTML": 130745,
+    "TypeScript": 6865409,
+    "Dart": 4386368,
+    "PLpgSQL": 3167314,
+    "HTML": 133159,
     "JavaScript": 101755,
+    "Shell": 57002,
     "CSS": 45196,
-    "Shell": 36117,
     "Python": 33229,
     "C++": 29688,
     "CMake": 20658,
     "PowerShell": 16560,
-    "Swift": 5303,
-    "Ruby": 4089,
+    "Swift": 7103,
+    "Ruby": 6871,
+    "Kotlin": 3588,
     "C": 1488,
-    "Kotlin": 1025,
-    "Batchfile": 126,
-    "Objective-C": 76
+    "Objective-C": 152,
+    "Batchfile": 126
   },
   "stack_signals": {
-    "React": 4,
-    "PostgreSQL": 3,
-    "Supabase": 3,
-    "Flutter": 2,
+    "React": 5,
+    "PostgreSQL": 4,
+    "Supabase": 4,
+    "Flutter": 3,
     "Next.js": 2,
+    "Razorpay": 2,
     "MongoDB": 1,
-    "Razorpay": 1,
     "Tailwind CSS": 1
   }
 }

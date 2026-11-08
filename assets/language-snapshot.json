@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-11-05 00:38:56",
+  "generated_at_utc": "2026-11-08 10:20:13",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -125,17 +125,29 @@
         "React",
         "Supabase"
       ]
+    },
+    {
+      "name": "ankitraj6767/snakegame",
+      "private": false,
+      "pushed_at": "2022-08-09T03:54:04Z",
+      "bytes": 7801,
+      "languages": {
+        "JavaScript": 4143,
+        "HTML": 2316,
+        "CSS": 1342
+      },
+      "stack_signals": []
     }
   ],
-  "total_language_bytes": 14875666,
+  "total_language_bytes": 14883467,
   "languages": {
     "TypeScript": 6865409,
     "Dart": 4386368,
     "PLpgSQL": 3167314,
-    "HTML": 133159,
-    "JavaScript": 101755,
+    "HTML": 135475,
+    "JavaScript": 105898,
     "Shell": 57002,
-    "CSS": 45196,
+    "CSS": 46538,
     "Python": 33229,
     "C++": 29688,
     "CMake": 20658,

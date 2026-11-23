@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-11-23 17:20:23",
+  "generated_at_utc": "2026-11-23 19:20:25",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -160,17 +160,61 @@
         "Node.js / Express",
         "React"
       ]
+    },
+    {
+      "name": "ankitraj6767/Ankit-PortFolio",
+      "private": false,
+      "pushed_at": "2026-05-06T11:38:48Z",
+      "bytes": 132505,
+      "languages": {
+        "JavaScript": 101655,
+        "CSS": 22737,
+        "HTML": 8113
+      },
+      "stack_signals": [
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/partofspeech",
+      "private": false,
+      "pushed_at": "2026-04-25T00:33:01Z",
+      "bytes": 412964,
+      "languages": {
+        "HTML": 378220,
+        "CSS": 17862,
+        "Shell": 8883,
+        "JavaScript": 7999
+      },
+      "stack_signals": []
+    },
+    {
+      "name": "ankitraj6767/weatherApplication",
+      "private": false,
+      "pushed_at": "2026-01-25T18:07:41Z",
+      "bytes": 167865,
+      "languages": {
+        "TypeScript": 163589,
+        "CSS": 3717,
+        "JavaScript": 559
+      },
+      "stack_signals": [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
     }
   ],
-  "total_language_bytes": 19665572,
+  "total_language_bytes": 20378906,
   "languages": {
-    "TypeScript": 9708415,
+    "TypeScript": 9872004,
     "Dart": 4386368,
     "PLpgSQL": 3167314,
-    "JavaScript": 2032811,
-    "HTML": 136621,
-    "Shell": 57002,
-    "CSS": 55441,
+    "JavaScript": 2143024,
+    "HTML": 522954,
+    "CSS": 99757,
+    "Shell": 65885,
     "Python": 33229,
     "C++": 29688,
     "CMake": 20658,
@@ -184,15 +228,15 @@
     "Batchfile": 126
   },
   "stack_signals": {
-    "React": 7,
+    "React": 9,
+    "Next.js": 4,
     "PostgreSQL": 4,
     "Supabase": 4,
     "Flutter": 3,
-    "Next.js": 3,
+    "Tailwind CSS": 3,
     "MongoDB": 2,
     "Node.js / Express": 2,
     "Razorpay": 2,
-    "Docker": 1,
-    "Tailwind CSS": 1
+    "Docker": 1
   }
 }

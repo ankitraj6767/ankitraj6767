@@ -1,6 +1,6 @@
 {
   "username": "ankitraj6767",
-  "generated_at_utc": "2026-11-22 18:22:03",
+  "generated_at_utc": "2026-11-23 17:20:23",
   "source": {
     "languages": "GitHub REST languages endpoint",
     "stack_signals": "Detected from package.json, pubspec.yaml, pom.xml, Gradle, Docker, and Supabase files"
@@ -32,26 +32,167 @@
         "React",
         "Supabase"
       ]
+    },
+    {
+      "name": "ankitraj6767/ledgerpro",
+      "private": false,
+      "pushed_at": "2026-10-22T03:12:30Z",
+      "bytes": 1768588,
+      "languages": {
+        "Dart": 1320893,
+        "PLpgSQL": 203031,
+        "HTML": 130745,
+        "C++": 29688,
+        "CMake": 20658,
+        "PowerShell": 16560,
+        "TypeScript": 15772,
+        "Shell": 14390,
+        "Python": 8633,
+        "Swift": 3500,
+        "Ruby": 2688,
+        "C": 1488,
+        "Kotlin": 378,
+        "Batchfile": 126,
+        "Objective-C": 38
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/admissionsathi",
+      "private": false,
+      "pushed_at": "2026-10-21T08:13:36Z",
+      "bytes": 3325601,
+      "languages": {
+        "TypeScript": 3302166,
+        "CSS": 13874,
+        "JavaScript": 6719,
+        "Shell": 2842
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "ankitraj6767/novamart",
+      "private": false,
+      "pushed_at": "2026-08-27T05:36:25Z",
+      "bytes": 2160020,
+      "languages": {
+        "TypeScript": 1358863,
+        "PLpgSQL": 693871,
+        "Dart": 56734,
+        "JavaScript": 46283,
+        "Shell": 2795,
+        "CSS": 951,
+        "Kotlin": 523
+      },
+      "stack_signals": [
+        "Flutter",
+        "Next.js",
+        "PostgreSQL",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/non-veg-junction",
+      "private": false,
+      "pushed_at": "2026-09-04T17:37:08Z",
+      "bytes": 2562807,
+      "languages": {
+        "Dart": 1564449,
+        "PLpgSQL": 886666,
+        "TypeScript": 81172,
+        "Shell": 20885,
+        "Ruby": 2782,
+        "Kotlin": 2563,
+        "HTML": 2414,
+        "Swift": 1800,
+        "Objective-C": 76
+      },
+      "stack_signals": [
+        "Flutter",
+        "PostgreSQL",
+        "Razorpay",
+        "React",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "ankitraj6767/ShopHub",
+      "private": false,
+      "pushed_at": "2026-11-11T10:03:47Z",
+      "bytes": 1921905,
+      "languages": {
+        "JavaScript": 1915427,
+        "CSS": 6090,
+        "HTML": 388
+      },
+      "stack_signals": [
+        "MongoDB",
+        "Node.js / Express",
+        "React"
+      ]
+    },
+    {
+      "name": "ankitraj6767/PG-International-School",
+      "private": false,
+      "pushed_at": "2026-04-11T10:48:03Z",
+      "bytes": 2868001,
+      "languages": {
+        "TypeScript": 2843006,
+        "JavaScript": 15629,
+        "CSS": 4155,
+        "HTML": 3074,
+        "Dockerfile": 2137
+      },
+      "stack_signals": [
+        "Docker",
+        "Next.js",
+        "Node.js / Express",
+        "React"
+      ]
     }
   ],
-  "total_language_bytes": 5058650,
+  "total_language_bytes": 19665572,
   "languages": {
-    "TypeScript": 2107436,
-    "Dart": 1444292,
-    "PLpgSQL": 1383746,
-    "JavaScript": 48753,
-    "CSS": 30371,
-    "Python": 24596,
-    "Shell": 16090,
-    "Swift": 1803,
-    "Ruby": 1401,
-    "Kotlin": 124,
-    "Objective-C": 38
+    "TypeScript": 9708415,
+    "Dart": 4386368,
+    "PLpgSQL": 3167314,
+    "JavaScript": 2032811,
+    "HTML": 136621,
+    "Shell": 57002,
+    "CSS": 55441,
+    "Python": 33229,
+    "C++": 29688,
+    "CMake": 20658,
+    "PowerShell": 16560,
+    "Swift": 7103,
+    "Ruby": 6871,
+    "Kotlin": 3588,
+    "Dockerfile": 2137,
+    "C": 1488,
+    "Objective-C": 152,
+    "Batchfile": 126
   },
   "stack_signals": {
-    "PostgreSQL": 1,
-    "Razorpay": 1,
-    "React": 1,
-    "Supabase": 1
+    "React": 7,
+    "PostgreSQL": 4,
+    "Supabase": 4,
+    "Flutter": 3,
+    "Next.js": 3,
+    "MongoDB": 2,
+    "Node.js / Express": 2,
+    "Razorpay": 2,
+    "Docker": 1,
+    "Tailwind CSS": 1
   }
 }
